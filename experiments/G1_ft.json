@@ -1,0 +1,2653 @@
+{
+    "I'm a plane enthusiast and I want to know the details of an aircraft with a specific ICAO HEX Code. Can you provide me with its details? Additionally, I'm interested in tracking live aircraft with a specific squawk code. Can you provide me with their current positions?": {
+        "original_docs": [
+            "FachaAPI Live Emergency Aircraft",
+            "FachaAPI Live NATO Air Policing Aircraft",
+            "FachaAPI Total Live tracked Aircraft",
+            "FachaAPI Live Aircraft by ICAO",
+            "FachaAPI Live Aircraft by Squawk",
+            "FachaAPI Temporary Email Stats",
+            "FachaAPI Aircraft Details by ICAO",
+            "FachaAPI Aircraft Database Stats",
+            "FachaAPI Live Aircraft by REG",
+            "FachaAPI Aircraft Details by REG"
+        ],
+        "top_docs": {
+            "(4311, ('FachaAPI', 'Live Aircraft by Squawk'))": {
+                "score": 0.6246452331542969
+            },
+            "(4313, ('FachaAPI', 'Live Aircraft by ICAO'))": {
+                "score": 0.5753562450408936
+            },
+            "(4316, ('FachaAPI', 'Aircraft Details by ICAO'))": {
+                "score": 0.5139065980911255
+            },
+            "(4312, ('FachaAPI', 'Live Aircraft by REG'))": {
+                "score": 0.5024524927139282
+            },
+            "(4310, ('FachaAPI', 'Live Emergency Aircraft'))": {
+                "score": 0.4838896095752716
+            }
+        },
+        "successful_matches": 5
+    },
+    "My cousin is applying for a job as a Graphic Designer. Can you generate a resume for them that showcases their skills in visual design and branding? Additionally, provide a cover letter tailored to a Graphic Designer position with a job description emphasizing proficiency in Adobe Creative Suite and experience with print and digital media.": {
+        "original_docs": [
+            "AI Resume Generator Generate Document: Cover Letter",
+            "AI Resume Generator Generate Document: Resume"
+        ],
+        "top_docs": {
+            "(4939, ('AI Resume Generator', 'Generate Document: Cover Letter'))": {
+                "score": 0.8064124584197998
+            },
+            "(4940, ('AI Resume Generator', 'Generate Document: Resume'))": {
+                "score": 0.729158878326416
+            },
+            "(10382, ('Screening and Matching Resumes', '/sourcingResume'))": {
+                "score": 0.42842888832092285
+            },
+            "(5329, ('AI-writer', 'Revise'))": {
+                "score": 0.42355963587760925
+            },
+            "(10376, ('Face Studio', '/generate'))": {
+                "score": 0.38826870918273926
+            }
+        },
+        "successful_matches": 2
+    },
+    "I am a travel agent looking for data on the biggest cities. Can you fetch me a comprehensive list of all the cities? Also, I would like to retrieve details about a specific city using its ID.": {
+        "original_docs": [
+            "BiggestCities Get Cities by filter",
+            "BiggestCities Get All Cities"
+        ],
+        "top_docs": {
+            "(6420, ('Biggest Cities', 'Get all cities'))": {
+                "score": 0.7936959266662598
+            },
+            "(6440, ('BiggestCities', 'Get All Cities'))": {
+                "score": 0.7856138944625854
+            },
+            "(6439, ('BiggestCities', 'Get Cities by filter'))": {
+                "score": 0.761428713798523
+            },
+            "(6419, ('Biggest Cities', 'Biggest cities'))": {
+                "score": 0.6874886155128479
+            },
+            "(9856, ('get cities', 'v1/geo/cities'))": {
+                "score": 0.5807678699493408
+            }
+        },
+        "successful_matches": 2
+    },
+    "I'm looking for the list of banks in Australia. Can you provide me with the SWIFT codes for these banks as well?": {
+        "original_docs": [
+            "Bank SWIFT codes SWIFT code",
+            "Bank SWIFT codes Banks by country",
+            "Bank SWIFT codes SWIFT codes by country"
+        ],
+        "top_docs": {
+            "(7632, ('Bank SWIFT codes', 'Banks by country'))": {
+                "score": 0.8327341079711914
+            },
+            "(7631, ('Bank SWIFT codes', 'SWIFT codes by country'))": {
+                "score": 0.7930611371994019
+            },
+            "(7633, ('Bank SWIFT codes', 'SWIFT code'))": {
+                "score": 0.739775538444519
+            },
+            "(6239, ('Exchange rates live', 'Get individual bank'))": {
+                "score": 0.45548760890960693
+            },
+            "(2014, ('Hryvna Today', '/v1/list/banks'))": {
+                "score": 0.4450721740722656
+            }
+        },
+        "successful_matches": 3
+    },
+    "I'm a digital nomad looking to explore Asia. Can you suggest some cities in Asia that are suitable for remote work? I would like the cities to be sorted by their overall score. Please also include information on internet speed and cost of living.": {
+        "original_docs": [
+            "Nomad List Cities North America",
+            "Nomad List Cities Middle East",
+            "Nomad List Cities Asia",
+            "Nomad List Cities Oceania",
+            "Nomad List Cities Latin America",
+            "Nomad List Cities Europe",
+            "Nomad List Cities All citites",
+            "Nomad List Cities Africa"
+        ],
+        "top_docs": {
+            "(2384, ('Cities Cost of Living', 'Get Cities List'))": {
+                "score": 0.5787326693534851
+            },
+            "(2417, ('Nomad List Cities', 'Asia'))": {
+                "score": 0.5756847858428955
+            },
+            "(2418, ('Nomad List Cities', 'Europe'))": {
+                "score": 0.5637542009353638
+            },
+            "(2415, ('Nomad List Cities', 'Oceania'))": {
+                "score": 0.5448095798492432
+            },
+            "(742, ('Cities Cost of Living and Average Prices API', 'Get Cities by Country'))": {
+                "score": 0.5391620397567749
+            }
+        },
+        "successful_matches": 3
+    },
+    "I'm hosting a lottery-themed game night and I need interesting facts about Cash4Life. Can you provide me with the latest winning number set and the basic statistics of the Cash4Life numbers? Additionally, I would like to know the winning number sets from the latest 10 Cash4Life drawings.": {
+        "original_docs": [
+            "Cash4Life Drawing by Date",
+            "Cash4Life Latest 10 Drawings",
+            "Cash4Life General Statistics",
+            "Cash4Life Random QuickPick for Play",
+            "Cash4Life Drawings Between Dates",
+            "Cash4Life Lastest Drawing",
+            "Cash4Life All Drawings"
+        ],
+        "top_docs": {
+            "(4736, ('Cash4Life', 'Latest 10 Drawings'))": {
+                "score": 0.6575899124145508
+            },
+            "(4737, ('Cash4Life', 'All Drawings'))": {
+                "score": 0.6296773552894592
+            },
+            "(4734, ('Cash4Life', 'Lastest Drawing'))": {
+                "score": 0.6284898519515991
+            },
+            "(4732, ('Cash4Life', 'Drawing by Date'))": {
+                "score": 0.615578293800354
+            },
+            "(4731, ('Cash4Life', 'Drawings Between Dates'))": {
+                "score": 0.5952117443084717
+            }
+        },
+        "successful_matches": 5
+    },
+    "I recently moved to a new city and I am looking for some local restaurants to try. Can you provide me with a list of restaurant locations in my city? It would be great to have their addresses, cuisine types, and hours of operation. Additionally, I would like to see their websites and phone numbers for further inquiries. Thank you!": {
+        "original_docs": [
+            "Restaurants near me USA GET all Restaurants locations by {state}",
+            "Restaurants near me USA GET all State names",
+            "Restaurants near me USA GET all Restaurant locations by {zipcode]",
+            "Restaurants near me USA GET all City names",
+            "Restaurants near me USA GET all Restaurant locations",
+            "Restaurants near me USA GET all Restaurant locations by {state} and {city}"
+        ],
+        "top_docs": {
+            "(2535, ('Restaurants near me USA', 'GET all Restaurant locations by {state} and {city}'))": {
+                "score": 0.6384141445159912
+            },
+            "(2532, ('Restaurants near me USA', 'GET all Restaurant locations'))": {
+                "score": 0.6379811763763428
+            },
+            "(2533, ('Restaurants near me USA', 'GET all Restaurant locations by {zipcode]'))": {
+                "score": 0.6337858438491821
+            },
+            "(2534, ('Restaurants near me USA', 'GET all Restaurants locations by {state}'))": {
+                "score": 0.6020721197128296
+            },
+            "(2531, ('Restaurants near me USA', 'GET all State names'))": {
+                "score": 0.5852228403091431
+            }
+        },
+        "successful_matches": 5
+    },
+    "I'm curious about the movie 'Titanic' and would like to explore it further. Can you fetch the movie reviews, cast details along with their images, and some movie images? Additionally, it would be helpful if you could provide the movie ID.": {
+        "original_docs": [
+            "Cinema API Get Movie Reviews By Id",
+            "Cinema API Get Cast By ID",
+            "Cinema API Get Movie ID By Title",
+            "Cinema API Get Movie Images By ID"
+        ],
+        "top_docs": {
+            "(4684, ('Cinema API', 'Get Movie Images By ID'))": {
+                "score": 0.7513715028762817
+            },
+            "(4683, ('Cinema API', 'Get Movie Reviews By Id'))": {
+                "score": 0.7250372767448425
+            },
+            "(4685, ('Cinema API', 'Get Movie ID By Title'))": {
+                "score": 0.6452965140342712
+            },
+            "(4686, ('Cinema API', 'Get Cast By ID'))": {
+                "score": 0.6141859292984009
+            },
+            "(5844, ('Magisto', 'Get Movie'))": {
+                "score": 0.4243031442165375
+            }
+        },
+        "successful_matches": 4
+    },
+    "I am organizing a trip for my family and we want to track live aircraft during our journey. Can you provide the total number of live tracked aircraft at the moment? Additionally, we would like to know if there are any emergency aircraft currently flying.": {
+        "original_docs": [
+            "FachaAPI Aircraft Details by ICAO",
+            "FachaAPI Live Aircraft by Squawk",
+            "FachaAPI Total Live tracked Aircraft",
+            "FachaAPI Live Emergency Aircraft",
+            "FachaAPI Temporary Email Stats",
+            "FachaAPI Aircraft Details by REG",
+            "FachaAPI Live Aircraft by REG",
+            "FachaAPI Live NATO Air Policing Aircraft",
+            "FachaAPI Aircraft Database Stats",
+            "FachaAPI Live Aircraft by ICAO"
+        ],
+        "top_docs": {
+            "(4308, ('FachaAPI', 'Total Live tracked Aircraft'))": {
+                "score": 0.690905749797821
+            },
+            "(4310, ('FachaAPI', 'Live Emergency Aircraft'))": {
+                "score": 0.6568941473960876
+            },
+            "(4312, ('FachaAPI', 'Live Aircraft by REG'))": {
+                "score": 0.6135745644569397
+            },
+            "(4313, ('FachaAPI', 'Live Aircraft by ICAO'))": {
+                "score": 0.6034460663795471
+            },
+            "(10021, ('Aircraft by API-Ninjas', '/v1/aircraft'))": {
+                "score": 0.5979217886924744
+            }
+        },
+        "successful_matches": 4
+    },
+    "I'm a travel blogger and I'm writing an article about the different neighborhoods in Mexico City. Can you provide me with the zip code data for each neighborhood using the 'Get zip code in Mexico' API? Additionally, can you search for the zip codes of other cities in Mexico using the 'Search zip codes in Mexico' API?": {
+        "original_docs": [
+            "Be Zips Get zip code in Mexico",
+            "Be Zips Search zip codes in mexico"
+        ],
+        "top_docs": {
+            "(1752, ('Mexico ZIP Codes', 'Search zip codes'))": {
+                "score": 0.8705933094024658
+            },
+            "(7760, ('Be Zips', 'Search zip codes in mexico'))": {
+                "score": 0.8535489439964294
+            },
+            "(1753, ('Mexico ZIP Codes', 'Zip Code Information'))": {
+                "score": 0.8223870992660522
+            },
+            "(7761, ('Be Zips', 'Get zip code in Mexico'))": {
+                "score": 0.8028311133384705
+            },
+            "(5562, ('Zippopotam.us', 'Get Zip Code info'))": {
+                "score": 0.5189507603645325
+            }
+        },
+        "successful_matches": 2
+    },
+    "My company needs to check the number of transactions done by the address 0x1234567890abcdef1234567890abcdef12345678 on the Binance Smart Chain mainnet network. Additionally, fetch the account balance for the same address.": {
+        "original_docs": [
+            "Binance Smart Chain Account Transaction History",
+            "Binance Smart Chain Account Transaction Count",
+            "Binance Smart Chain Account Balance",
+            "Binance Smart Chain Current Block Number",
+            "Binance Smart Chain Block",
+            "Binance Smart Chain Transaction"
+        ],
+        "top_docs": {
+            "(6301, ('Binance Smart Chain', 'Account Balance'))": {
+                "score": 0.6199895739555359
+            },
+            "(6305, ('Binance Smart Chain', 'Account Transaction Count'))": {
+                "score": 0.6131950616836548
+            },
+            "(6304, ('Binance Smart Chain', 'Account Transaction History'))": {
+                "score": 0.5885294079780579
+            },
+            "(6303, ('Binance Smart Chain', 'Transaction'))": {
+                "score": 0.46462157368659973
+            },
+            "(6300, ('Binance Smart Chain', 'Current Block Number'))": {
+                "score": 0.46064168214797974
+            }
+        },
+        "successful_matches": 5
+    },
+    "Please help me analyze the team information and standings for the Atlanta Dream. Additionally, I would like to know the box score and play-by-play data for a specific game. The game ID is 401244185. Use the WNBA TEAM INFO, WNBA Standings, WNBA Box Score, and WNBA Play By Play APIs.": {
+        "original_docs": [
+            "WNBA API WNBA TEAM INFO",
+            "WNBA API WNBA Teams.",
+            "WNBA API WNBA Summary",
+            "WNBA API WNBA Play By Play",
+            "WNBA API WNBA ScoreBoard",
+            "WNBA API WNBA Schedule",
+            "WNBA API WNBA Box Score",
+            "WNBA API WNBA Standings"
+        ],
+        "top_docs": {
+            "(1443, ('WNBA API', 'WNBA TEAM INFO'))": {
+                "score": 0.7254728674888611
+            },
+            "(1449, ('WNBA API', 'WNBA Box Score'))": {
+                "score": 0.7088769674301147
+            },
+            "(1450, ('WNBA API', 'WNBA Play By Play'))": {
+                "score": 0.690035343170166
+            },
+            "(1446, ('WNBA API', 'WNBA ScoreBoard'))": {
+                "score": 0.6562548279762268
+            },
+            "(1444, ('WNBA API', 'WNBA Teams.'))": {
+                "score": 0.6518210172653198
+            }
+        },
+        "successful_matches": 5
+    },
+    "I'm curious about the films currently playing at the cinemas in Argentina. Can you provide me with the film names, descriptions, and showtimes? Additionally, give me the cinema addresses for the brand 'hoyts'.": {
+        "original_docs": [
+            "Argentina movie theatres /cinemas/{id}/showtimes",
+            "Argentina movie theatres /cinemas",
+            "Argentina movie theatres /showtimes",
+            "Argentina movie theatres /cinemas/{cinemaId}/films/{filmId}/showtimes",
+            "Argentina movie theatres /films",
+            "Argentina movie theatres /cinemas/{id}/films"
+        ],
+        "top_docs": {
+            "(4522, ('Argentina movie theatres', '/cinemas/{cinemaId}/films/{filmId}/showtimes'))": {
+                "score": 0.7982077598571777
+            },
+            "(4519, ('Argentina movie theatres', '/cinemas/{id}/films'))": {
+                "score": 0.7957147359848022
+            },
+            "(4520, ('Argentina movie theatres', '/cinemas/{id}/showtimes'))": {
+                "score": 0.7934044003486633
+            },
+            "(4523, ('Argentina movie theatres', '/cinemas'))": {
+                "score": 0.780865490436554
+            },
+            "(4518, ('Argentina movie theatres', '/showtimes'))": {
+                "score": 0.7796908020973206
+            }
+        },
+        "successful_matches": 5
+    },
+    "I'm an aspiring poet and I'm looking for inspiration. Can you provide me with a list of all the poem titles available in Poetry DB? Additionally, I'd like to explore poems with a specific number of lines and discover the poets behind these captivating works.": {
+        "original_docs": [
+            "Poetry DB /lines/{line}:abs",
+            "Poetry DB /title/{title}",
+            "Poetry DB /linecount/{linecount}",
+            "Poetry DB /author",
+            "Poetry DB /author,title/{author};{title}",
+            "Poetry DB /author/{author}",
+            "Poetry DB /author/{author}:abs",
+            "Poetry DB /lines/{line}",
+            "Poetry DB /title",
+            "Poetry DB /title/{title}:abs"
+        ],
+        "top_docs": {
+            "(4769, ('Poetry DB', '/lines/{line}'))": {
+                "score": 0.7286416292190552
+            },
+            "(4771, ('Poetry DB', '/lines/{line}:abs'))": {
+                "score": 0.7249051928520203
+            },
+            "(4768, ('Poetry DB', '/title/{title}:abs'))": {
+                "score": 0.7170023918151855
+            },
+            "(4763, ('Poetry DB', '/title/{title}'))": {
+                "score": 0.7101884484291077
+            },
+            "(4762, ('Poetry DB', '/title'))": {
+                "score": 0.7048581838607788
+            }
+        },
+        "successful_matches": 5
+    },
+    "My family is planning to move to France, and we are considering different cities. Can you help us by listing the properties available for rent in Paris and Lyon within a specific boundary?": {
+        "original_docs": [
+            "Seloger locations/search",
+            "Seloger properties/count",
+            "Seloger properties/list-in-boundary",
+            "Seloger properties/detail",
+            "Seloger properties/list"
+        ],
+        "top_docs": {
+            "(5128, ('Seloger', 'properties/list-in-boundary'))": {
+                "score": 0.7115325331687927
+            },
+            "(5129, ('Seloger', 'properties/list'))": {
+                "score": 0.580720841884613
+            },
+            "(5127, ('Seloger', 'properties/detail'))": {
+                "score": 0.5514492988586426
+            },
+            "(5126, ('Seloger', 'properties/count'))": {
+                "score": 0.5186994075775146
+            },
+            "(138, ('Fluximmo', 'get_annonce_by_urls'))": {
+                "score": 0.4470221996307373
+            }
+        },
+        "successful_matches": 4
+    },
+    "My company is sponsoring a football match and we need predictions for the upcoming matches in the next 48 hours. Can you provide us with the predictions for the classic market? Additionally, we would like to see the league table and stats for the away team.": {
+        "original_docs": [
+            "Football Prediction Predictions",
+            "Football Prediction Away Team Last 10 Matches",
+            "Football Prediction List available markets",
+            "Football Prediction Performance stats for past predictions",
+            "Football Prediction Home Team Last 10 Matches",
+            "Football Prediction Head To Head",
+            "Football Prediction Home Team League Stats",
+            "Football Prediction Prediction Details",
+            "Football Prediction Away Team League Stats",
+            "Football Prediction List available federations"
+        ],
+        "top_docs": {
+            "(1258, ('Football Prediction', 'List available markets'))": {
+                "score": 0.6979557871818542
+            },
+            "(1266, ('Football Prediction', 'Performance stats for past predictions'))": {
+                "score": 0.658658504486084
+            },
+            "(1257, ('Football Prediction', 'Predictions'))": {
+                "score": 0.6447941064834595
+            },
+            "(1263, ('Football Prediction', 'Away Team League Stats'))": {
+                "score": 0.6328624486923218
+            },
+            "(1260, ('Football Prediction', 'Home Team League Stats'))": {
+                "score": 0.6305533051490784
+            }
+        },
+        "successful_matches": 5
+    },
+    "My friends and I are planning a hiking trip to Surabaya, Indonesia. Can you give us the weather forecast for the next three days? We need to know the temperature, humidity, wind speed, and wind direction. Additionally, it would be helpful to be informed about any recent earthquakes in the region. Thank you!": {
+        "original_docs": [
+            "Indonesia Most Accurate Weather and Earthquake Weather forecast for Indonesian cities BMKG",
+            "Indonesia Most Accurate Weather and Earthquake Latest earth quake happened on Indonesia BMKG"
+        ],
+        "top_docs": {
+            "(3189, ('Indonesia Most Accurate Weather and Earthquake', 'Weather forecast for Indonesian cities BMKG'))": {
+                "score": 0.764992356300354
+            },
+            "(7939, ('Indonesia Latest Weather and Earthquake', 'Weather Cities in Indonesia filtered by Province (Code)'))": {
+                "score": 0.736157238483429
+            },
+            "(7940, ('Indonesia Latest Weather and Earthquake', 'Top Cities Weather in Indonesia'))": {
+                "score": 0.7228121757507324
+            },
+            "(7938, ('Indonesia Latest Weather and Earthquake', 'Latest Earthquake'))": {
+                "score": 0.6959906220436096
+            },
+            "(7936, ('Indonesia Latest Weather and Earthquake', 'Latest Top 15 Earthquake (felt by local)'))": {
+                "score": 0.6892222762107849
+            }
+        },
+        "successful_matches": 1
+    },
+    "I'm organizing a ski event for my company at Jackson Hole and I need to know the weather conditions for the next 5 days. Can you fetch the 5-day forecast for the resort, including the maximum and minimum temperatures, snowfall, and wind speed? Additionally, provide me with the current snow conditions at the resort. Thanks!": {
+        "original_docs": [
+            "Ski Resort Forecast 5 Day Forecast",
+            "Ski Resort Forecast Current Snow Conditions",
+            "Ski Resort Forecast Hourly Forecast"
+        ],
+        "top_docs": {
+            "(3172, ('Ski Resort Forecast', 'Current Snow Conditions'))": {
+                "score": 0.7268478870391846
+            },
+            "(3170, ('Ski Resort Forecast', '5 Day Forecast'))": {
+                "score": 0.7096575498580933
+            },
+            "(3103, ('World Weather Online API', 'Ski Weather API'))": {
+                "score": 0.600492000579834
+            },
+            "(2436, ('Ski Resorts and Conditions', 'Index'))": {
+                "score": 0.5719959139823914
+            },
+            "(3171, ('Ski Resort Forecast', 'Hourly Forecast'))": {
+                "score": 0.5099763870239258
+            }
+        },
+        "successful_matches": 3
+    },
+    "Can you provide the BMI for a person with a height of 160 cm and a weight of 50 kg? Additionally, calculate the BSA for this person.": {
+        "original_docs": [
+            "ClinicalMarkers /apgar",
+            "ClinicalMarkers /audit",
+            "ClinicalMarkers /BacterialMeningitisScoreForChildren",
+            "ClinicalMarkers /apache2",
+            "ClinicalMarkers /ascvd",
+            "ClinicalMarkers /bsa",
+            "ClinicalMarkers /bmi"
+        ],
+        "top_docs": {
+            "(2366, ('BMI_v2', 'Gives the weight catergory based on the BMI'))": {
+                "score": 0.6512694954872131
+            },
+            "(2367, ('BMI_v2', 'Gives the BMI when you input height in feet and inches & input weight in kilograms'))": {
+                "score": 0.6238678693771362
+            },
+            "(2380, ('Body Mass Index (BMI) Calculator', 'Weight Category'))": {
+                "score": 0.6146353483200073
+            },
+            "(2368, ('BMI_v2', 'Gives the BMI when you input values in Imperial units (Feet/Inches & Pounds)'))": {
+                "score": 0.604827880859375
+            },
+            "(2378, ('Body Mass Index (BMI) Calculator', 'Metric [Kilograms]'))": {
+                "score": 0.587361752986908
+            }
+        },
+        "successful_matches": 0
+    },
+    "I'm planning to move to a new city and I need information about the real estate market. Can you help me search for properties based on location, price range, number of bedrooms, and other criteria? Furthermore, I would like to retrieve the zip code of a specific city.": {
+        "original_docs": [
+            "Zillow Base Search",
+            "Zillow Base locationSuggestions",
+            "Zillow Base Search by URL",
+            "Zillow Base getLocationInfoByZipCode",
+            "Zillow Base locationSuggestions_v2",
+            "Zillow Base Property details",
+            "Zillow Base getZipCodeByCounty",
+            "Zillow Base getZipCodeByCity"
+        ],
+        "top_docs": {
+            "(7960, ('Real Estate USA', 'search properties by zip'))": {
+                "score": 0.60835862159729
+            },
+            "(5616, ('Redfin Base', 'Get location infomation by zipcode'))": {
+                "score": 0.5929933786392212
+            },
+            "(5617, ('Redfin Base', 'Get zipcode by county'))": {
+                "score": 0.589300274848938
+            },
+            "(5618, ('Redfin Base', 'Get ZipCode by City'))": {
+                "score": 0.5860908031463623
+            },
+            "(9005, ('Zipcodebase Zip Code Search', 'Postalcode to location information (/search)'))": {
+                "score": 0.529573380947113
+            }
+        },
+        "successful_matches": 0
+    },
+    "I'm working on a school project about music genres. Can you provide me with search results for 'rock' from the Cheap YouTube API? It would also be helpful to get information about the author and view count of the trending music videos.": {
+        "original_docs": [
+            "\ud83d\ude80 Cheap YouTube API \ud83d\udd25 Trending (music, gaming, news, movies)",
+            "\ud83d\ude80 Cheap YouTube API \ud83d\udd25 Playlist",
+            "\ud83d\ude80 Cheap YouTube API \ud83d\udd25 Search",
+            "\ud83d\ude80 Cheap YouTube API \ud83d\udd25 Popular",
+            "\ud83d\ude80 Cheap YouTube API \ud83d\udd25 Search suggestions",
+            "\ud83d\ude80 Cheap YouTube API \ud83d\udd25 Comments",
+            "\ud83d\ude80 Cheap YouTube API \ud83d\udd25 Video",
+            "\ud83d\ude80 Cheap YouTube API \ud83d\udd25 Channel"
+        ],
+        "top_docs": {
+            "(1009, ('\ud83d\ude80 Cheap YouTube API \ud83d\udd25', 'Trending (music, gaming, news, movies)'))": {
+                "score": 0.6179537177085876
+            },
+            "(290, ('Youtube Search', 'Trending Videos'))": {
+                "score": 0.6159108877182007
+            },
+            "(8034, ('Youtube V2', 'Trending Videos'))": {
+                "score": 0.5547900199890137
+            },
+            "(1010, ('\ud83d\ude80 Cheap YouTube API \ud83d\udd25', 'Search'))": {
+                "score": 0.5347425937652588
+            },
+            "(1007, ('\ud83d\ude80 Cheap YouTube API \ud83d\udd25', 'Popular'))": {
+                "score": 0.5272512435913086
+            }
+        },
+        "successful_matches": 3
+    },
+    "As a small business owner, I need to improve my marketing strategies. Can you give me search results for articles, case studies, and expert advice on social media marketing, search engine optimization, and email marketing? Please also include any related questions people often ask about these topics.": {
+        "original_docs": [
+            "G Search /search",
+            "G Search /location"
+        ],
+        "top_docs": {
+            "(9982, ('Front Page search engine', 'Search'))": {
+                "score": 0.6255999803543091
+            },
+            "(9964, ('Google Search Results', 'Search'))": {
+                "score": 0.574016809463501
+            },
+            "(273, ('G Search', '/search'))": {
+                "score": 0.5711084008216858
+            },
+            "(76, ('Google Search Results Scraper', 'Web Search'))": {
+                "score": 0.5544484257698059
+            },
+            "(9975, ('Web Search_v2', 'Web Search'))": {
+                "score": 0.5494762063026428
+            }
+        },
+        "successful_matches": 1
+    },
+    "I am studying Hindi and I need to find the synonyms and meanings of the word '\u0906\u0936\u093e'. Can you assist me with this?": {
+        "original_docs": [
+            "gruite Synonym",
+            "gruite Meanings"
+        ],
+        "top_docs": {
+            "(2822, ('Webit Language', 'Dictionary Synonyms (TEMPORARILY UNAVAILABLE)'))": {
+                "score": 0.5777257680892944
+            },
+            "(9634, ('Synonyms Words', 'Get'))": {
+                "score": 0.5268963575363159
+            },
+            "(9487, ('English synonyms', 'Get Synonyms'))": {
+                "score": 0.4724007248878479
+            },
+            "(7581, ('Indian Names', 'Get Names'))": {
+                "score": 0.46753978729248047
+            },
+            "(7580, ('Indian Names', 'Get Status'))": {
+                "score": 0.4227310121059418
+            }
+        },
+        "successful_matches": 0
+    },
+    "I am a football enthusiast and would like to stay updated on match predictions. Can you provide me with the daily predictions for the upcoming matches? It would be great if I can paginate through the predictions and specify the page number. Additionally, could you give me the featured predictions with better odds and higher probability?": {
+        "original_docs": [
+            "Today Football Prediction Prediction Details",
+            "Today Football Prediction Daily Predictions",
+            "Today Football Prediction VIP Prediction Scores",
+            "Today Football Prediction Stats - Performance",
+            "Today Football Prediction VIP Featured Predictions"
+        ],
+        "top_docs": {
+            "(1606, ('Today Football Prediction', 'VIP Featured Predictions'))": {
+                "score": 0.6945260763168335
+            },
+            "(1605, ('Today Football Prediction', 'Daily Predictions'))": {
+                "score": 0.6496019959449768
+            },
+            "(1237, ('Betigolo Predictions', 'Football predictions by day'))": {
+                "score": 0.5802080631256104
+            },
+            "(6124, ('Daily Betting Tips', 'Get All Predictions'))": {
+                "score": 0.5711194276809692
+            },
+            "(6123, ('Daily Betting Tips', 'Get Predictions by Date'))": {
+                "score": 0.5401285290718079
+            }
+        },
+        "successful_matches": 2
+    },
+    "My company is organizing a comedy competition and we need a variety of jokes. Can you search for jokes containing the keyword 'humor' using the search-jokes API? Also, please generate a random meme with the keyword 'comedy' using the random-meme API.": {
+        "original_docs": [
+            "Humor-Jokes-and-Memes search-gifs",
+            "Humor-Jokes-and-Memes random-joke",
+            "Humor-Jokes-and-Memes insult",
+            "Humor-Jokes-and-Memes praise",
+            "Humor-Jokes-and-Memes search-jokes",
+            "Humor-Jokes-and-Memes random-meme",
+            "Humor-Jokes-and-Memes Create Joke",
+            "Humor-Jokes-and-Memes rate-word",
+            "Humor-Jokes-and-Memes generate-nonsense-word",
+            "Humor-Jokes-and-Memes search-memes"
+        ],
+        "top_docs": {
+            "(8102, ('Humor-Jokes-and-Memes', 'search-jokes'))": {
+                "score": 0.780603289604187
+            },
+            "(8101, ('Humor-Jokes-and-Memes', 'search-memes'))": {
+                "score": 0.7425107359886169
+            },
+            "(8103, ('Humor-Jokes-and-Memes', 'random-joke'))": {
+                "score": 0.6802995800971985
+            },
+            "(8100, ('Humor-Jokes-and-Memes', 'random-meme'))": {
+                "score": 0.6779645681381226
+            },
+            "(8094, ('Humor-Jokes-and-Memes', 'Create Joke'))": {
+                "score": 0.6510069370269775
+            }
+        },
+        "successful_matches": 5
+    },
+    "I am organizing an educational event on earthquakes and I need comprehensive information. Can you provide me with the details of the most recent earthquakes worldwide along with their magnitudes, locations, and dates? Additionally, include the latitude and longitude of the earthquake locations.": {
+        "original_docs": [
+            "EveryEarthquake Significant Earthquakes, Past Day",
+            "EveryEarthquake M2.5+ Earthquakes, Past Hour",
+            "EveryEarthquake Earthquakes By Date",
+            "EveryEarthquake Earthquakes",
+            "EveryEarthquake Types",
+            "EveryEarthquake All Earthquakes, Past Hour",
+            "EveryEarthquake M4.5+ Earthquakes, Past Hour",
+            "EveryEarthquake All Earthquakes, Past Day",
+            "EveryEarthquake API Test",
+            "EveryEarthquake Significant Earthquakes, Past Hour"
+        ],
+        "top_docs": {
+            "(2779, ('EveryEarthquake', 'Earthquakes By Date'))": {
+                "score": 0.6184670925140381
+            },
+            "(2781, ('EveryEarthquake', 'Earthquakes'))": {
+                "score": 0.5635578036308289
+            },
+            "(2773, ('EveryEarthquake', 'Significant Earthquakes, Past Day'))": {
+                "score": 0.5097359418869019
+            },
+            "(2772, ('EveryEarthquake', 'All Earthquakes, Past Day'))": {
+                "score": 0.49456292390823364
+            },
+            "(2776, ('EveryEarthquake', 'M4.5+ Earthquakes, Past Hour'))": {
+                "score": 0.49379459023475647
+            }
+        },
+        "successful_matches": 5
+    },
+    "I'm looking for Azure influencers who specialize in machine learning. Can you provide me with a list of Azure influencers on the first page? Additionally, I would like to explore Azure newsletters to stay updated.": {
+        "original_docs": [
+            "Azure GetNewsletters",
+            "Azure GetPeople",
+            "Azure GetEvents",
+            "Azure GetPastEvents",
+            "Azure GetSponsorships",
+            "Azure GetLearningResourcesByTopic",
+            "Azure GetTopics",
+            "Azure GetFutureEvents",
+            "Azure GetPeopleByTopic",
+            "Azure GetFutureEventsByTopic"
+        ],
+        "top_docs": {
+            "(209, ('Azure Smartable', 'GetPastEvents'))": {
+                "score": 0.5330911874771118
+            },
+            "(207, ('Azure Smartable', 'GetFutureEvents'))": {
+                "score": 0.5206688046455383
+            },
+            "(212, ('Azure Smartable', 'GetSponsorships'))": {
+                "score": 0.515461802482605
+            },
+            "(211, ('Azure Smartable', 'GetNewsletters'))": {
+                "score": 0.489399254322052
+            },
+            "(208, ('Azure Smartable', 'GetFutureEventsByTopic'))": {
+                "score": 0.47597384452819824
+            }
+        },
+        "successful_matches": 0
+    },
+    "Retrieve the stopmodreposts blocklist in JSON format for Minecraft. I need to analyze the list of blocked sites and compare it with our internal database.": {
+        "original_docs": [
+            "StopModReposts Blocklist JSON",
+            "StopModReposts Blocklist XML",
+            "StopModReposts Blocklist TXT",
+            "StopModReposts Blocklist YAML",
+            "StopModReposts Blocklist UBLACKLIST.TXT",
+            "StopModReposts Blocklist HOSTS.TXT"
+        ],
+        "top_docs": {
+            "(514, ('StopModReposts Blocklist', 'JSON'))": {
+                "score": 0.7016934156417847
+            },
+            "(512, ('StopModReposts Blocklist', 'YAML'))": {
+                "score": 0.6903979182243347
+            },
+            "(509, ('StopModReposts Blocklist', 'UBLACKLIST.TXT'))": {
+                "score": 0.688574492931366
+            },
+            "(513, ('StopModReposts Blocklist', 'XML'))": {
+                "score": 0.6672645211219788
+            },
+            "(510, ('StopModReposts Blocklist', 'HOSTS.TXT'))": {
+                "score": 0.6566851139068604
+            }
+        },
+        "successful_matches": 5
+    },
+    "Retrieve the pet information for pet ID 6 and get the inventory count. Also, find the user details for the username 'sarah12'.": {
+        "original_docs": [
+            "erictestpet loginUser",
+            "erictestpet getUserByName",
+            "erictestpet getPetById",
+            "erictestpet logoutUser",
+            "erictestpet getOrderById",
+            "erictestpet getInventory"
+        ],
+        "top_docs": {
+            "(5211, ('PetStoreAPI2.0', 'getUserByName'))": {
+                "score": 0.6036806106567383
+            },
+            "(533, ('Pet Store', 'getUserByName'))": {
+                "score": 0.5859449505805969
+            },
+            "(8339, ('teste', 'getUserByName'))": {
+                "score": 0.5296146273612976
+            },
+            "(5213, ('PetStoreAPI2.0', 'loginUser'))": {
+                "score": 0.5191464424133301
+            },
+            "(5158, ('apfd', 'getUserByName'))": {
+                "score": 0.5140146017074585
+            }
+        },
+        "successful_matches": 0
+    },
+    "I'm planning a road trip from Madrid to Barcelona. Can you provide me with the step-by-step directions, distance, and estimated duration of the journey? Also, let me know the speed limit on the route.": {
+        "original_docs": [
+            "mymappi Reverse Geocoding",
+            "mymappi Highway type",
+            "mymappi Transit",
+            "mymappi Traveling salesman",
+            "mymappi Direct Geocoding",
+            "mymappi Speed limit",
+            "mymappi Route calculation",
+            "mymappi Isochrone",
+            "mymappi Distance matrix",
+            "mymappi Snap to road"
+        ],
+        "top_docs": {
+            "(8555, ('SpatialScale Route Engine', 'Get Isochrone'))": {
+                "score": 0.4929938316345215
+            },
+            "(7773, ('LocationIQ', 'Directions'))": {
+                "score": 0.48364192247390747
+            },
+            "(9223, ('Fast Routing', 'Get Route'))": {
+                "score": 0.4762575328350067
+            },
+            "(3712, (' Forward & Reverse Geocoding by googleMap api', 'forward'))": {
+                "score": 0.46612071990966797
+            },
+            "(3711, (' Forward & Reverse Geocoding by googleMap api', 'reverse'))": {
+                "score": 0.45667019486427307
+            }
+        },
+        "successful_matches": 0
+    },
+    "I want to access the document link for a specific claim with the case number 'C67890'. Please provide the document link for this claim.": {
+        "original_docs": [
+            "Get Docs RetrieveClaimListByUser",
+            "Get Docs case record",
+            "Get Docs document"
+        ],
+        "top_docs": {
+            "(199, ('Get Docs', 'document'))": {
+                "score": 0.47481024265289307
+            },
+            "(3429, ('Yardillo', 'Read Case Type'))": {
+                "score": 0.4460415244102478
+            },
+            "(198, ('Get Docs', 'case record'))": {
+                "score": 0.42762792110443115
+            },
+            "(3430, ('Yardillo', 'Read  Case Type By Name'))": {
+                "score": 0.41387927532196045
+            },
+            "(3432, ('Yardillo', 'Get Case By Id'))": {
+                "score": 0.39761608839035034
+            }
+        },
+        "successful_matches": 2
+    },
+    "As the CEO of my company, I need to stay updated with the latest orders. Can you fetch the orders from the database and provide me with the details of each order, including its ID and status? It would be helpful if you could also fetch my personal information from the database.": {
+        "original_docs": [
+            "\ud83d\udc4b Onboarding Project Get User Orders",
+            "\ud83d\udc4b Onboarding Project Me",
+            "\ud83d\udc4b Onboarding Project Get Products",
+            "\ud83d\udc4b Onboarding Project Get Products in Category",
+            "\ud83d\udc4b Onboarding Project Get Order",
+            "\ud83d\udc4b Onboarding Project Get Categories",
+            "\ud83d\udc4b Onboarding Project Get Product"
+        ],
+        "top_docs": {
+            "(5305, ('\ud83d\udc4b Demo Project_v3', 'Get User Orders'))": {
+                "score": 0.5492464900016785
+            },
+            "(1919, ('\ud83d\udc4b Demo Project_v3', 'Get User Orders'))": {
+                "score": 0.5492464303970337
+            },
+            "(2868, ('\ud83d\udc4b Demo Project_v13', 'Get User Orders'))": {
+                "score": 0.5449320673942566
+            },
+            "(3569, ('\ud83d\udc4b Demo Project_v2', 'Get User Orders'))": {
+                "score": 0.5432732105255127
+            },
+            "(823, ('\ud83d\udc4b Demo Project_v2', 'Get User Orders'))": {
+                "score": 0.5432732105255127
+            }
+        },
+        "successful_matches": 0
+    },
+    "I'm planning a trip to a foreign country and I need some information about the destination. Can you provide me with details about popular tourist attractions, local cuisine, and cultural practices? Additionally, I would like to know about the weather conditions in that country, including the temperature, humidity, and wind speed.": {
+        "original_docs": [
+            "FastAPI Project Explore",
+            "FastAPI Project interests"
+        ],
+        "top_docs": {
+            "(6842, ('Geography _v2', 'get country by id'))": {
+                "score": 0.39171189069747925
+            },
+            "(9888, ('Country by API-Ninjas', '/v1/country'))": {
+                "score": 0.37716740369796753
+            },
+            "(1068, ('NewApi', 'n'))": {
+                "score": 0.36932212114334106
+            },
+            "(1067, ('NewApi', 'url'))": {
+                "score": 0.3566715121269226
+            },
+            "(9425, ('data_visualisation_', 'getting data'))": {
+                "score": 0.35181647539138794
+            }
+        },
+        "successful_matches": 0
+    },
+    "I am a food lover and I want to find the lowest prices for groceries, ingredients, and cooking utensils. Can you provide me with the lowest bins for these food-related items? Also, include information on how often the prices are updated.": {
+        "original_docs": [
+            "Lowest Bins Api Info endpoint",
+            "Lowest Bins Api Fetch lowest bins"
+        ],
+        "top_docs": {
+            "(5691, ('Lowest Bins Api', 'Info endpoint'))": {
+                "score": 0.8433818817138672
+            },
+            "(5692, ('Lowest Bins Api', 'Fetch lowest bins'))": {
+                "score": 0.8294601440429688
+            },
+            "(3381, ('test2', '/{orgCode}/cardart/{bins}'))": {
+                "score": 0.415759801864624
+            },
+            "(9050, ('BIN/IIN Lookup', 'BIN/IIN Lookup'))": {
+                "score": 0.4063417315483093
+            },
+            "(2809, ('Ambee Soil Data', 'Soil Data by lat lng'))": {
+                "score": 0.37683287262916565
+            }
+        },
+        "successful_matches": 2
+    },
+    "My friend needs assistance in translating a document from Japanese to Korean. Can you help with that? Also, please provide the language code for Japanese and the language code for Korean.": {
+        "original_docs": [
+            "Translate All Languages Languages",
+            "Translate All Languages Detect",
+            "Translate All Languages Translate"
+        ],
+        "top_docs": {
+            "(2835, ('Translate All Languages', 'Languages'))": {
+                "score": 0.6624591946601868
+            },
+            "(2836, ('Translate All Languages', 'Detect'))": {
+                "score": 0.6385137438774109
+            },
+            "(2834, ('Translate All Languages', 'Translate'))": {
+                "score": 0.6246629953384399
+            },
+            "(9480, ('Translef - translator', 'List of available languages'))": {
+                "score": 0.6159253716468811
+            },
+            "(2831, ('Translate_v3', 'Translate'))": {
+                "score": 0.6073535680770874
+            }
+        },
+        "successful_matches": 3
+    },
+    "I'm planning to write an article about the top articles of all time. Can you provide me with the titles and URLs of the articles from the dev.to website? Additionally, I would like to include the month's top articles and the latest articles in my research.": {
+        "original_docs": [
+            "dev-to-api Get all the relevant articles",
+            "dev-to-api Get all the latest articles",
+            "dev-to-api Get all the year's top articles",
+            "dev-to-api Get the top articles of all time",
+            "dev-to-api Get all the top articles of the week by default",
+            "dev-to-api Get the month's top articles"
+        ],
+        "top_docs": {
+            "(3332, ('dev-to-api', \"Get the month's top articles\"))": {
+                "score": 0.8509503602981567
+            },
+            "(3333, ('dev-to-api', 'Get all the top articles of the week by default'))": {
+                "score": 0.846211314201355
+            },
+            "(3331, ('dev-to-api', \"Get all the year's top articles\"))": {
+                "score": 0.8232880234718323
+            },
+            "(3330, ('dev-to-api', 'Get the top articles of all time'))": {
+                "score": 0.7764815092086792
+            },
+            "(3334, ('dev-to-api', 'Get all the latest articles'))": {
+                "score": 0.7068679928779602
+            }
+        },
+        "successful_matches": 5
+    },
+    "I need to set up a price alert for a specific game. The game ID is 12345 and I want to receive an email when the price drops below $20. Can you set up the price alert for me? Also, provide me with a link to manage my alerts.": {
+        "original_docs": [
+            "CheapShark - Game Deals List of Games",
+            "CheapShark - Game Deals Deal Lookup",
+            "CheapShark - Game Deals Manage Alerts",
+            "CheapShark - Game Deals Edit Alert",
+            "CheapShark - Game Deals Game Lookup",
+            "CheapShark - Game Deals List of Deals",
+            "CheapShark - Game Deals Stores Info"
+        ],
+        "top_docs": {
+            "(6771, ('CheapShark - Game Deals', 'Manage Alerts'))": {
+                "score": 0.586168110370636
+            },
+            "(6775, ('CheapShark - Game Deals', 'Edit Alert'))": {
+                "score": 0.4932810962200165
+            },
+            "(6774, ('CheapShark - Game Deals', 'Game Lookup'))": {
+                "score": 0.4676218032836914
+            },
+            "(9810, ('game', 'game'))": {
+                "score": 0.4316840171813965
+            },
+            "(6772, ('CheapShark - Game Deals', 'List of Games'))": {
+                "score": 0.42344340682029724
+            }
+        },
+        "successful_matches": 4
+    },
+    "I want to create a workout plan for my friend who is an advanced fitness enthusiast. She wants to focus on her core muscles and has access to a stability ball and resistance bands. The plan should be 60 minutes long and aim for muscle gain. Can you generate a plan for her?": {
+        "original_docs": [
+            "Workout Planner Get Customized Plan",
+            "Workout Planner Get Workout Plan"
+        ],
+        "top_docs": {
+            "(2364, ('MuscleWiki', 'GET Exercises'))": {
+                "score": 0.5843238234519958
+            },
+            "(2350, ('Workout Planner', 'Get Customized Plan'))": {
+                "score": 0.5679463148117065
+            },
+            "(2351, ('Workout Planner', 'Get Workout Plan'))": {
+                "score": 0.5558364987373352
+            },
+            "(2363, ('MuscleWiki', 'GET Exercise by ID'))": {
+                "score": 0.5471142530441284
+            },
+            "(6405, ('ExerciseDB', 'List of target muscles'))": {
+                "score": 0.498432993888855
+            }
+        },
+        "successful_matches": 2
+    },
+    "I am a sports journalist and I need to gather information for an article. Can you fetch the latest odds and matches on Dreambet? This information will be valuable for my analysis and reporting.": {
+        "original_docs": [
+            "Dreambet Matches",
+            "Dreambet Odds"
+        ],
+        "top_docs": {
+            "(1500, ('Dreambet', 'Matches'))": {
+                "score": 0.7840275764465332
+            },
+            "(1499, ('Dreambet', 'Odds'))": {
+                "score": 0.6820427179336548
+            },
+            "(1551, ('Fantasy Cricket', 'Upcoming Matches API'))": {
+                "score": 0.47967231273651123
+            },
+            "(1557, ('Fantasy Cricket', 'Live Matches API'))": {
+                "score": 0.4373012185096741
+            },
+            "(1220, ('Betcity', 'Matches'))": {
+                "score": 0.402198851108551
+            }
+        },
+        "successful_matches": 2
+    },
+    "I am working on a project that requires information on the provinces and municipalities in Spain. Can you provide me with a complete list of all the provinces and municipalities in the country? It would be helpful to have the names of the communities as well.": {
+        "original_docs": [
+            "Organizaci\u00f3n territorial de Espa\u00f1a Lista de Comunidades Aut\u00f3nomas",
+            "Organizaci\u00f3n territorial de Espa\u00f1a Lista de provincias",
+            "Organizaci\u00f3n territorial de Espa\u00f1a Lista de provincias por Comunidad Aut\u00f3noma",
+            "Organizaci\u00f3n territorial de Espa\u00f1a Lista de municipios por provincia"
+        ],
+        "top_docs": {
+            "(1716, ('Organizaci\u00f3n territorial de Espa\u00f1a', 'Lista de provincias por Comunidad Aut\u00f3noma'))": {
+                "score": 0.7435879111289978
+            },
+            "(1715, ('Organizaci\u00f3n territorial de Espa\u00f1a', 'Lista de municipios por provincia'))": {
+                "score": 0.7336300611495972
+            },
+            "(1717, ('Organizaci\u00f3n territorial de Espa\u00f1a', 'Lista de provincias'))": {
+                "score": 0.7307037115097046
+            },
+            "(1718, ('Organizaci\u00f3n territorial de Espa\u00f1a', 'Lista de Comunidades Aut\u00f3nomas'))": {
+                "score": 0.7202486991882324
+            },
+            "(9845, ('C\u00f3digos Postales de Espa\u00f1a', 'Municipio por c\u00f3digo postal'))": {
+                "score": 0.5625916123390198
+            }
+        },
+        "successful_matches": 4
+    },
+    "I'm a journalist working on an article about the role of Bitcoin in the financial industry. Can you help me find news articles from CoinTelegraph and Business Insider that discuss Bitcoin's influence on traditional banking and investment sectors?": {
+        "original_docs": [
+            "Crypto News_v2 Get Individual News Source",
+            "Crypto News_v2 Specific Article Keyword Search",
+            "Crypto News_v2 Get All Crypto News",
+            "Crypto News_v2 General search"
+        ],
+        "top_docs": {
+            "(2800, ('Cryptocurrency News', 'Cointelegraph'))": {
+                "score": 0.7403308749198914
+            },
+            "(981, ('crypto-news_v2', 'CoinTelegraph'))": {
+                "score": 0.7336464524269104
+            },
+            "(977, ('crypto-news_v2', 'CoinCu'))": {
+                "score": 0.5532388687133789
+            },
+            "(2799, ('Cryptocurrency News', 'Bitcoinist'))": {
+                "score": 0.5491337776184082
+            },
+            "(980, ('crypto-news_v2', 'CoinJournal'))": {
+                "score": 0.5289261341094971
+            }
+        },
+        "successful_matches": 0
+    },
+    "I'm planning a surprise anniversary dinner for my parents and want to create a slideshow with their favorite quotes. Can you fetch quotes from their favorite authors? Additionally, it would be amazing if I could get background images based on the keywords from the quotes.": {
+        "original_docs": [
+            "Quotes Diffusion /topic",
+            "Quotes Diffusion /author",
+            "Quotes Diffusion /random"
+        ],
+        "top_docs": {
+            "(701, ('Quotes_v2', 'Quotes by Keywords'))": {
+                "score": 0.5898937582969666
+            },
+            "(7128, ('Quotes Diffusion', '/author'))": {
+                "score": 0.5732417106628418
+            },
+            "(8008, (' Quotes API', 'get_quotes_by_keyword'))": {
+                "score": 0.5655806064605713
+            },
+            "(703, ('Quotes_v2', 'Quotes By Authors'))": {
+                "score": 0.5476022958755493
+            },
+            "(7127, ('Quotes Diffusion', '/topic'))": {
+                "score": 0.5357884764671326
+            }
+        },
+        "successful_matches": 2
+    },
+    "I'm planning a dinner party and I want to impress my guests with unique recipes. Can you give me the details of a specific recipe titled 'articulo-13-jugos-verdes-para-adelgazar-y-quemar-grasa-71482'? Additionally, I would like to see a list of all the recipes available.": {
+        "original_docs": [
+            "Recetas en espa\u00f1ol Get recipes",
+            "Recetas en espa\u00f1ol Get recipes details"
+        ],
+        "top_docs": {
+            "(4830, ('Recetas en espa\u00f1ol', 'Get recipes details'))": {
+                "score": 0.7252605557441711
+            },
+            "(10178, ('Recipe_v2', 'go'))": {
+                "score": 0.6914229989051819
+            },
+            "(4831, ('Recetas en espa\u00f1ol', 'Get recipes'))": {
+                "score": 0.6638502478599548
+            },
+            "(10176, ('Recipe_v3', 'foodrecipe'))": {
+                "score": 0.6621694564819336
+            },
+            "(10183, ('Recipe by API-Ninjas', '/v1/recipe'))": {
+                "score": 0.6421598196029663
+            }
+        },
+        "successful_matches": 2
+    },
+    "My company is interested in staying updated on climate-related news. Can you fetch the latest climate news articles from various publications? We want to gather information from 'The Times' and other sources as well.": {
+        "original_docs": [
+            "New climate get all climate news",
+            "New climate get individual articles"
+        ],
+        "top_docs": {
+            "(6670, ('New climate', 'get all climate news'))": {
+                "score": 0.614813506603241
+            },
+            "(3316, ('Climate News Feed', 'Get all publications'))": {
+                "score": 0.5924045443534851
+            },
+            "(3263, ('Climate News API_v2', 'Get Individual News Source news'))": {
+                "score": 0.5067095756530762
+            },
+            "(3262, ('Climate News API_v2', 'Get All Climate Change Related News'))": {
+                "score": 0.49221333861351013
+            },
+            "(3317, ('Climate News Feed', 'Get Articles'))": {
+                "score": 0.4120805263519287
+            }
+        },
+        "successful_matches": 1
+    },
+    "I'm a bookworm and I'm always on the lookout for new books to read. Can you search for book deals on Amazon in the United States and provide me with the product details, including the price, image, and customer reviews? It would be helpful to see the available categories for books as well.": {
+        "original_docs": [
+            "Amazon Web Scraping API Search Products(All countries)",
+            "Amazon Web Scraping API Get Deals",
+            "Amazon Web Scraping API \u200bGet Product Details(All countries)",
+            "Amazon Web Scraping API Get Websites",
+            "Amazon Web Scraping API \u200bGet Product Reviews(All countries)",
+            "Amazon Web Scraping API Get Languages"
+        ],
+        "top_docs": {
+            "(1181, ('Amazon Data Scraper _v2', 'Get awesome product details'))": {
+                "score": 0.6277996301651001
+            },
+            "(1179, ('Amazon Data Scraper _v2', \"Get product's reviews\"))": {
+                "score": 0.6158533692359924
+            },
+            "(1116, ('Amazon Data_v2', 'Categories List'))": {
+                "score": 0.6037004590034485
+            },
+            "(173, ('Amazon Web Scraping API', '\\u200bGet Product Details(All countries)'))": {
+                "score": 0.5825806260108948
+            },
+            "(1178, ('Amazon Data Scraper _v2', 'Get Amazon Search results'))": {
+                "score": 0.5802045464515686
+            }
+        },
+        "successful_matches": 1
+    },
+    "Can you convert 2000 USD to CAD, GBP, and AUD? I also need the historical rates for the past year and the list of supported currencies.": {
+        "original_docs": [
+            "CurrencyAPI.net History",
+            "CurrencyAPI.net Timeframe",
+            "CurrencyAPI.net Rates",
+            "CurrencyAPI.net Currencies",
+            "CurrencyAPI.net Convert"
+        ],
+        "top_docs": {
+            "(1937, ('Currency_v3', 'Historical Rates'))": {
+                "score": 0.6323754787445068
+            },
+            "(913, ('CurrencyAPI.net', 'Convert'))": {
+                "score": 0.4776887893676758
+            },
+            "(917, ('CurrencyAPI.net', 'History'))": {
+                "score": 0.4758285880088806
+            },
+            "(9278, ('Coinmill Currency', 'Coinmill'))": {
+                "score": 0.4658035337924957
+            },
+            "(7828, ('Coinranking', 'Get reference currencies'))": {
+                "score": 0.46481776237487793
+            }
+        },
+        "successful_matches": 2
+    },
+    "Please provide me with the users' data from Reqres. Additionally, I need the list of unknown resources and their details to understand the available resources.": {
+        "original_docs": [
+            "Reqres Users",
+            "Reqres Unknown"
+        ],
+        "top_docs": {
+            "(449, ('Reqres', 'Unknown'))": {
+                "score": 0.7759693264961243
+            },
+            "(448, ('Reqres', 'Users'))": {
+                "score": 0.7365601062774658
+            },
+            "(3071, ('Reqres - dont change!', 'Users'))": {
+                "score": 0.6909651756286621
+            },
+            "(3072, ('Reqres - dont change!', 'User by id'))": {
+                "score": 0.6295499801635742
+            },
+            "(2972, ('DailyCred', 'Create a User With Only an Email'))": {
+                "score": 0.3938191831111908
+            }
+        },
+        "successful_matches": 2
+    },
+    "I want to know the sentiment of a customer review for a restaurant. The review text is: 'The food was delicious and the service was excellent!' Please extract the entities from the review as well.": {
+        "original_docs": [
+            "TextAPI Extract Entities",
+            "TextAPI Display Entities",
+            "TextAPI Extract Text [From Webpage]",
+            "TextAPI Sentiment"
+        ],
+        "top_docs": {
+            "(3036, ('TextAPI', 'Extract Entities'))": {
+                "score": 0.6550413370132446
+            },
+            "(9600, ('Text Sentiment API', 'Sentiment Analysis'))": {
+                "score": 0.604587733745575
+            },
+            "(9669, ('Sentiment Analysis Service', 'Analyze Text'))": {
+                "score": 0.580635666847229
+            },
+            "(9672, ('Sentiment Analysis_v12', 'Text Analysis'))": {
+                "score": 0.5651271343231201
+            },
+            "(10380, ('Text Sentiment Analysis ', 'Text Sentiment Analysis'))": {
+                "score": 0.550327479839325
+            }
+        },
+        "successful_matches": 1
+    },
+    "I am a journalist working on a story about India. Can you fetch all the latest news articles from the India Today platform? Furthermore, I would like to search for news articles related to specific tags, such as environment or sports.": {
+        "original_docs": [
+            "India Today Unofficial Get News",
+            "India Today Unofficial Tag Search"
+        ],
+        "top_docs": {
+            "(3264, ('India Today Unofficial', 'Tag Search'))": {
+                "score": 0.6007992625236511
+            },
+            "(3265, ('India Today Unofficial', 'Get News'))": {
+                "score": 0.5420239567756653
+            },
+            "(3212, ('Sri Lanka News Api', 'Get news from one news source'))": {
+                "score": 0.42011576890945435
+            },
+            "(3213, ('Sri Lanka News Api', 'Get all latest news'))": {
+                "score": 0.40128010511398315
+            },
+            "(3232, ('News_v3', 'Articles'))": {
+                "score": 0.38179439306259155
+            }
+        },
+        "successful_matches": 2
+    },
+    "I work for XYZ Company and we need to monitor the transactions happening on the Polygon Mainnet. Can you fetch the address transactions for the network 'POLYGON_MAINNET'? Also, provide the webhook status for the transaction with ID '4753498e-5ee1-45b2-a18c-a7ef3c9f71cd'.": {
+        "original_docs": [
+            "Address Monitor Get service status",
+            "Address Monitor Get address transaction webhook",
+            "Address Monitor Get addresses",
+            "Address Monitor Get quota usage",
+            "Address Monitor Get address transactions"
+        ],
+        "top_docs": {
+            "(91, ('Address Monitor', 'Get address transaction webhook'))": {
+                "score": 0.6205520629882812
+            },
+            "(7511, ('\ud83d\udd25 All-In-One Crypto Swiss Knife \ud83d\ude80', 'Address transaction history'))": {
+                "score": 0.5039116144180298
+            },
+            "(92, ('Address Monitor', 'Get address transactions'))": {
+                "score": 0.4936479330062866
+            },
+            "(2065, ('ChangeNOW crypto exchange', 'API V2 | Transaction status'))": {
+                "score": 0.4332389831542969
+            },
+            "(10228, ('BlockTrail - Bitcoin Developers Platform', '/v1/{network}'))": {
+                "score": 0.4314255118370056
+            }
+        },
+        "successful_matches": 2
+    },
+    "I'm in the mood for some classical music. Can you recommend radio stations that play classical music from different cities?": {
+        "original_docs": [
+            "60K Radio Stations Get Genres",
+            "60K Radio Stations Get Countries",
+            "60K Radio Stations Get Channels",
+            "60K Radio Stations Get Cities"
+        ],
+        "top_docs": {
+            "(4693, ('60K Radio Stations', 'Get Cities'))": {
+                "score": 0.7442920207977295
+            },
+            "(7409, ('50K Radio Stations', 'Get Cities'))": {
+                "score": 0.71342933177948
+            },
+            "(4691, ('60K Radio Stations', 'Get Channels'))": {
+                "score": 0.6993463635444641
+            },
+            "(4690, ('60K Radio Stations', 'Get Genres'))": {
+                "score": 0.6862162351608276
+            },
+            "(7380, ('Radio World - 75,000+ Worldwide FM Radio stations..', 'getHomePage'))": {
+                "score": 0.6661126613616943
+            }
+        },
+        "successful_matches": 3
+    },
+    "I'm a music lover and I want to create a playlist with a mix of tracks and podcast episodes. Can you help me by listing the tracks and episodes in a specific playlist? Additionally, I would like to fetch the full details of the playlist.": {
+        "original_docs": [
+            "Spotify Scraper Get Artist Overview",
+            "Spotify Scraper List User Followers",
+            "Spotify Scraper Get Episode (Downloadable Audio)",
+            "Spotify Scraper Get Podcast Metadata",
+            "Spotify Scraper List Top Tracks",
+            "Spotify Scraper List Playlist Tracks and Episodes",
+            "Spotify Scraper List Podcast Episodes",
+            "Spotify Scraper List Album Tracks",
+            "Spotify Scraper Get Album Metadata",
+            "Spotify Scraper Get Playlist Metadata"
+        ],
+        "top_docs": {
+            "(5068, ('Spotify Scraper', 'List Playlist Tracks and Episodes'))": {
+                "score": 0.5955716967582703
+            },
+            "(7407, ('Spotify _v2', 'Get Playlist Details'))": {
+                "score": 0.5483835339546204
+            },
+            "(5072, ('Spotify Data API', 'Get playlist'))": {
+                "score": 0.517369270324707
+            },
+            "(7405, ('Spotify _v2', 'Get user Playlists'))": {
+                "score": 0.5127666592597961
+            },
+            "(8153, ('Youtube Music API (Detailed)', 'Get User Playlists'))": {
+                "score": 0.49991488456726074
+            }
+        },
+        "successful_matches": 1
+    },
+    "I want to surprise my family with personalized custom boxes for our upcoming vacation. Can you recommend some categories for custom packaging and provide me with a list of products available in each category? I also need to check if there are any ongoing orders for the products I'm interested in.": {
+        "original_docs": [
+            "\ud83d\udc4b Demo Project Get User Orders",
+            "\ud83d\udc4b Demo Project Get Categories",
+            "\ud83d\udc4b Demo Project Get Product",
+            "\ud83d\udc4b Demo Project Get Order",
+            "\ud83d\udc4b Demo Project Get Products",
+            "\ud83d\udc4b Demo Project Me",
+            "\ud83d\udc4b Demo Project Get Products in Category"
+        ],
+        "top_docs": {
+            "(5304, ('\ud83d\udc4b Demo Project_v3', 'Get Categories'))": {
+                "score": 0.6691386103630066
+            },
+            "(1917, ('\ud83d\udc4b Demo Project_v3', 'Get Categories'))": {
+                "score": 0.6691386103630066
+            },
+            "(6599, ('\ud83d\udc4b Demo Project_v12', 'Get Products in Category'))": {
+                "score": 0.6578189730644226
+            },
+            "(5306, ('\ud83d\udc4b Demo Project_v3', 'Get Products in Category'))": {
+                "score": 0.6503991484642029
+            },
+            "(1916, ('\ud83d\udc4b Demo Project_v3', 'Get Products in Category'))": {
+                "score": 0.6503991484642029
+            }
+        },
+        "successful_matches": 0
+    },
+    "I'm organizing a cricket tournament and need to gather information about IPL. Can you fetch the latest IPL news articles from The Guardian? Also, provide me with a compilation of all the IPL news articles available worldwide for reference.": {
+        "original_docs": [
+            "Latest IPL News Get All IPL News",
+            "Latest IPL News Get Individual News Source News"
+        ],
+        "top_docs": {
+            "(3247, ('Latest IPL News', 'Get Individual News Source News'))": {
+                "score": 0.6655400395393372
+            },
+            "(3248, ('Latest IPL News', 'Get All IPL News'))": {
+                "score": 0.6548938751220703
+            },
+            "(3227, ('Live world futbol news', 'Get All World Footbol news live'))": {
+                "score": 0.4785633087158203
+            },
+            "(3226, ('Live world futbol news', 'Get Individual News Source'))": {
+                "score": 0.46186354756355286
+            },
+            "(6665, ('Cote Ivoire news', 'Get news'))": {
+                "score": 0.400723397731781
+            }
+        },
+        "successful_matches": 2
+    },
+    "I am planning to start a new business and I need to check if the trademark keyword 'techworld' is available. Can you please search for this keyword and let me know if it is available? Additionally, I would like to see the details of any trademarks found for the owner 'John Doe' who resides in the postcode '12345'. Thank you!": {
+        "original_docs": [
+            "USPTO Trademark v1/ownerSearch",
+            "USPTO Trademark /v1/trademarkSearch",
+            "USPTO Trademark /v1/serialSearch",
+            "USPTO Trademark /v1/trademarkAvailable",
+            "USPTO Trademark /v1/databaseStatus"
+        ],
+        "top_docs": {
+            "(5178, ('USPTO Trademark', '/v1/trademarkSearch'))": {
+                "score": 0.7221983671188354
+            },
+            "(5177, ('USPTO Trademark', '/v1/trademarkAvailable'))": {
+                "score": 0.7198302745819092
+            },
+            "(5176, ('USPTO Trademark', 'v1/ownerSearch'))": {
+                "score": 0.6789191961288452
+            },
+            "(5179, ('USPTO Trademark', '/v1/serialSearch'))": {
+                "score": 0.6165984272956848
+            },
+            "(5180, ('USPTO Trademark', '/v1/databaseStatus'))": {
+                "score": 0.5549708604812622
+            }
+        },
+        "successful_matches": 5
+    },
+    "I want to analyze the stock with the symbol 'AAPL'. Can you provide me with the price forecast, peer metrics, and discounted cash flow models? Also, give me the list of company peers.": {
+        "original_docs": [
+            "MarketCI Analytics Peer Metrics Average",
+            "MarketCI Analytics Discounted Cash Flow Models (DCF's)",
+            "MarketCI Analytics Price Probability",
+            "MarketCI Analytics Peer Ratio Averages",
+            "MarketCI Analytics Peers",
+            "MarketCI Analytics Price Forecasts"
+        ],
+        "top_docs": {
+            "(906, ('MarketCI Analytics', 'Peer Metrics Average'))": {
+                "score": 0.6249626874923706
+            },
+            "(907, ('MarketCI Analytics', 'Peer Ratio Averages'))": {
+                "score": 0.6223001480102539
+            },
+            "(908, ('MarketCI Analytics', \"Discounted Cash Flow Models (DCF's)\"))": {
+                "score": 0.5553494095802307
+            },
+            "(904, ('MarketCI Analytics', 'Peers'))": {
+                "score": 0.5323553085327148
+            },
+            "(903, ('MarketCI Analytics', 'Price Forecasts'))": {
+                "score": 0.5264760851860046
+            }
+        },
+        "successful_matches": 5
+    },
+    "I'm interested in exploring the most popular articles on dev.to. Can you fetch the titles and URLs of the top articles of all time, the year's top articles, and the month's top articles? It would also be helpful to include the latest articles.": {
+        "original_docs": [
+            "dev-to-api Get the month's top articles",
+            "dev-to-api Get all the top articles of the week by default",
+            "dev-to-api Get all the year's top articles",
+            "dev-to-api Get all the relevant articles",
+            "dev-to-api Get all the latest articles",
+            "dev-to-api Get the top articles of all time"
+        ],
+        "top_docs": {
+            "(3332, ('dev-to-api', \"Get the month's top articles\"))": {
+                "score": 0.844336748123169
+            },
+            "(3331, ('dev-to-api', \"Get all the year's top articles\"))": {
+                "score": 0.8376325964927673
+            },
+            "(3333, ('dev-to-api', 'Get all the top articles of the week by default'))": {
+                "score": 0.8299477100372314
+            },
+            "(3330, ('dev-to-api', 'Get the top articles of all time'))": {
+                "score": 0.8048167824745178
+            },
+            "(3334, ('dev-to-api', 'Get all the latest articles'))": {
+                "score": 0.6681613922119141
+            }
+        },
+        "successful_matches": 5
+    },
+    "I am planning a trip around the world to attend various sports events. Can you provide me with the names and IDs of sports, rounds, countries, and statuses?": {
+        "original_docs": [
+            "Global Data Status List",
+            "Global Data Country List",
+            "Global Data Sports List",
+            "Global Data Round List"
+        ],
+        "top_docs": {
+            "(1435, ('Global Data', 'Sports List'))": {
+                "score": 0.5501212477684021
+            },
+            "(1639, ('FlashLive Sports', 'Event Rounds results (golf)'))": {
+                "score": 0.5043509006500244
+            },
+            "(6105, ('Sports odds BetApi', 'Data Country All'))": {
+                "score": 0.4932052791118622
+            },
+            "(6107, ('Sports odds BetApi', 'Data Country'))": {
+                "score": 0.4824015498161316
+            },
+            "(8255, ('SportifyAPI', 'TournamentMetadata'))": {
+                "score": 0.47564685344696045
+            }
+        },
+        "successful_matches": 1
+    },
+    "I am a business consultant and I need to gather data about the companies and document types in the 360 Business Tool. Can you fetch all the companies and document types for me? Additionally, I want to retrieve the cases modified since 1637836800. Kindly provide me with this information.": {
+        "original_docs": [
+            "360 Business Tool GetAllRecordsSince",
+            "360 Business Tool GetCases",
+            "360 Business Tool GetAllRecords",
+            "360 Business Tool GetDocumentTypesSince",
+            "360 Business Tool GetCompaniesSince",
+            "360 Business Tool GetCompanies",
+            "360 Business Tool GetCasesSince",
+            "360 Business Tool GetDocumentTypes"
+        ],
+        "top_docs": {
+            "(5101, ('360 Business Tool', 'GetDocumentTypesSince'))": {
+                "score": 0.6459952592849731
+            },
+            "(5097, ('360 Business Tool', 'GetDocumentTypes'))": {
+                "score": 0.6411325335502625
+            },
+            "(5099, ('360 Business Tool', 'GetCompanies'))": {
+                "score": 0.6241216063499451
+            },
+            "(5100, ('360 Business Tool', 'GetCasesSince'))": {
+                "score": 0.614006519317627
+            },
+            "(5104, ('360 Business Tool', 'GetAllRecords'))": {
+                "score": 0.6018538475036621
+            }
+        },
+        "successful_matches": 5
+    },
+    "I'm a fashion enthusiast and I need some outfit inspiration. Can you provide me with the list of media posted by user ID 25025320? I want to browse through their photos and videos to get ideas for my next fashion look. Additionally, fetch the list of users who liked each media to discover new fashion influencers.": {
+        "original_docs": [
+            "Instagram_v6 MediaLikers",
+            "Instagram_v6 Followers",
+            "Instagram_v6 GetUserStories",
+            "Instagram_v6 Following",
+            "Instagram_v6 Medias",
+            "Instagram_v6 SearchFollowing",
+            "Instagram_v6 MediaInfo",
+            "Instagram_v6 SearchFollowers",
+            "Instagram_v6 HashTagMedias",
+            "Instagram_v6 GetSuggestedUser"
+        ],
+        "top_docs": {
+            "(3883, ('Instagram Looter', 'Get User Media by user_id'))": {
+                "score": 0.5495426058769226
+            },
+            "(8785, ('Instagram Fast', 'Get user followers'))": {
+                "score": 0.5153740644454956
+            },
+            "(8788, ('Instagram Fast', 'Get media data'))": {
+                "score": 0.4950333535671234
+            },
+            "(8784, ('Instagram Fast', 'Get user following'))": {
+                "score": 0.4883544147014618
+            },
+            "(3914, ('Instagram Profile', 'GET Followers by username'))": {
+                "score": 0.4618372321128845
+            }
+        },
+        "successful_matches": 0
+    },
+    "I'm planning a surprise party for my best friend, and I want to include meaningful quotes in the decorations. Can you provide me with random love, success, and motivation quotes? It would be great to have quotes that can celebrate love, success, and inspire everyone at the party. Thank you so much for your help!": {
+        "original_docs": [
+            "Olato Quotes Success Quote",
+            "Olato Quotes Motivation Quote",
+            "Olato Quotes Love Quote"
+        ],
+        "top_docs": {
+            "(4139, ('Olato Quotes', 'Love Quote'))": {
+                "score": 0.54693204164505
+            },
+            "(224, ('Motivational Content', 'Get All Motivational Quotes'))": {
+                "score": 0.5061966776847839
+            },
+            "(10131, ('Love Quotes by LoveMelon', 'getLoveQuotes'))": {
+                "score": 0.5057061910629272
+            },
+            "(4141, ('Olato Quotes', 'Motivation Quote'))": {
+                "score": 0.49682536721229553
+            },
+            "(4140, ('Olato Quotes', 'Success Quote'))": {
+                "score": 0.48698246479034424
+            }
+        },
+        "successful_matches": 3
+    },
+    "I am traveling to Australia and I need to exchange my currency from GBP to AUD. Can you provide the current exchange rate? It would also be useful to see the exchange rates for GBP to EUR and GBP to USD.": {
+        "original_docs": [
+            "Ziff Base Currency Exchange Rates",
+            "Ziff All Exchange Rates"
+        ],
+        "top_docs": {
+            "(2051, ('Currency Ex', 'Get Exchange Rate'))": {
+                "score": 0.6438643336296082
+            },
+            "(5116, ('Currency Exchange Rates', 'Converting currencies'))": {
+                "score": 0.6408113241195679
+            },
+            "(2223, ('Exchanger Currency Rates Provider', 'Supported Currencies'))": {
+                "score": 0.6234312653541565
+            },
+            "(2224, ('Exchanger Currency Rates Provider', 'Convert'))": {
+                "score": 0.6148162484169006
+            },
+            "(1983, ('Exchange Rate', 'Convert'))": {
+                "score": 0.6003891229629517
+            }
+        },
+        "successful_matches": 0
+    },
+    "I am organizing a travel event and need some information about countries. Can you provide me with a list of country codes (ISO-3166)? Additionally, I would like to know the details of the United States, including its name and currency.": {
+        "original_docs": [
+            "Travel Hacking Tool Get Airport Details",
+            "Travel Hacking Tool Get Airline Alliance List",
+            "Travel Hacking Tool Get Airplane List",
+            "Travel Hacking Tool Get TimeZones",
+            "Travel Hacking Tool Get Airline Details",
+            "Travel Hacking Tool Get Airport List",
+            "Travel Hacking Tool Get Airplane Details",
+            "Travel Hacking Tool Get Airline List",
+            "Travel Hacking Tool Get Country List",
+            "Travel Hacking Tool Get Country Details"
+        ],
+        "top_docs": {
+            "(2080, ('Currencies And Countries', 'Get Country Info'))": {
+                "score": 0.48966705799102783
+            },
+            "(3742, ('Referential', 'Country by iso code'))": {
+                "score": 0.4687063694000244
+            },
+            "(7094, ('Travel Hacking Tool', 'Get Country Details'))": {
+                "score": 0.4647126793861389
+            },
+            "(6899, ('Country Information and Conversion API', 'ByCountryCode'))": {
+                "score": 0.45194947719573975
+            },
+            "(8435, ('City and State Search API', 'Country Details'))": {
+                "score": 0.4033105969429016
+            }
+        },
+        "successful_matches": 1
+    },
+    "I'm launching a global marketing campaign and need to gather market research data for different countries. Can you provide demographic information, consumer behavior trends, and popular social media platforms in each country? Additionally, I would like to search for marketing case studies and success stories.": {
+        "original_docs": [
+            "Bing Web Search Supported Languages",
+            "Bing Web Search Supported Countries"
+        ],
+        "top_docs": {
+            "(189, ('Bible Search', 'Search Text'))": {
+                "score": 0.6348385810852051
+            },
+            "(4213, ('Bing Search APIs', 'Web Search API'))": {
+                "score": 0.6116501688957214
+            },
+            "(9976, ('Bing Web Search_v2', 'Web Search'))": {
+                "score": 0.5994886159896851
+            },
+            "(9975, ('Web Search_v2', 'Web Search'))": {
+                "score": 0.5731757283210754
+            },
+            "(9968, ('Google Search API', 'Search'))": {
+                "score": 0.5725493431091309
+            }
+        },
+        "successful_matches": 0
+    },
+    "I'm a student working on a project about manatees and I want to include some jokes in my presentation. Can you provide me with a random manatee joke and also retrieve all available jokes? It would be great if the jokes are suitable for a school setting and can entertain my classmates.": {
+        "original_docs": [
+            "manatee jokes random",
+            "manatee jokes find all",
+            "manatee jokes get by id"
+        ],
+        "top_docs": {
+            "(2764, ('manatee jokes', 'random'))": {
+                "score": 0.7883763909339905
+            },
+            "(2766, ('manatee jokes', 'find all'))": {
+                "score": 0.7139716148376465
+            },
+            "(2765, ('manatee jokes', 'get by id'))": {
+                "score": 0.6126062870025635
+            },
+            "(10110, ('Jokes by API-Ninjas', '/v1/jokes'))": {
+                "score": 0.5391427278518677
+            },
+            "(8103, ('Humor-Jokes-and-Memes', 'random-joke'))": {
+                "score": 0.48910054564476013
+            }
+        },
+        "successful_matches": 3
+    },
+    "I need some ideas for my web development project. Could you provide me with a list of web projects from your portfolio? I'm particularly interested in the ones built with modern frameworks.": {
+        "original_docs": [
+            "Portfolio api",
+            "Portfolio work",
+            "Portfolio web"
+        ],
+        "top_docs": {
+            "(2564, ('Portfolio', 'web'))": {
+                "score": 0.630492091178894
+            },
+            "(2563, ('Portfolio', 'api'))": {
+                "score": 0.5466814637184143
+            },
+            "(2562, ('Portfolio', 'work'))": {
+                "score": 0.48629558086395264
+            },
+            "(6262, ('walletapi.cloud', 'List projects'))": {
+                "score": 0.4721219539642334
+            },
+            "(6267, ('walletapi.cloud', 'Get project details'))": {
+                "score": 0.4458339214324951
+            }
+        },
+        "successful_matches": 3
+    },
+    "I am a business owner and I want to monitor the prices of certain products on Amazon. Can you retrieve the details of a specific product using its ASIN code? Please provide the details for the product with ASIN 'B091J3NYVF' in the 'US' store, including the name, description, price, features, and main image URL. Additionally, return the currently supported languages in the API.": {
+        "original_docs": [
+            "Amazon Web Scraping API Get Languages",
+            "Amazon Web Scraping API Search Products(All countries)",
+            "Amazon Web Scraping API Get Deals",
+            "Amazon Web Scraping API \u200bGet Product Details(All countries)",
+            "Amazon Web Scraping API \u200bGet Product Reviews(All countries)",
+            "Amazon Web Scraping API Get Websites"
+        ],
+        "top_docs": {
+            "(7640, ('Real-Time Amazon Data', 'Product Details (EXPERIMENTAL)'))": {
+                "score": 0.4434027671813965
+            },
+            "(9137, ('Amazon Pricing and Product Info', 'Main Endpoint'))": {
+                "score": 0.41572633385658264
+            },
+            "(384, ('ASIN Data', 'Product'))": {
+                "score": 0.4043419361114502
+            },
+            "(9146, ('Amazon Product Price Data', 'product'))": {
+                "score": 0.3964986503124237
+            },
+            "(5886, ('Abiola Amazon Data Scraper', 'Get Amazon Product Details'))": {
+                "score": 0.3891921043395996
+            }
+        },
+        "successful_matches": 0
+    },
+    "My family and I enjoy watching football matches together. Can you fetch the latest odds from Admiralbet for the upcoming matches? It would be helpful to have the odds for both the home and away teams, as well as the odds for a draw.": {
+        "original_docs": [
+            "Admiralbet Matches",
+            "Admiralbet Odds"
+        ],
+        "top_docs": {
+            "(1452, ('Admiralbet', 'Odds'))": {
+                "score": 0.7033319473266602
+            },
+            "(1451, ('Admiralbet', 'Matches'))": {
+                "score": 0.6627745628356934
+            },
+            "(1410, ('Simple Surf Forecast Api', 'GetTodaysForecast'))": {
+                "score": 0.4010242819786072
+            },
+            "(1310, ('Sportsbook Odds', 'Line Updates (Changes in Odds)'))": {
+                "score": 0.3846909999847412
+            },
+            "(1366, ('Football Betting Odds', '/provider3/live/match/{id}'))": {
+                "score": 0.3665727972984314
+            }
+        },
+        "successful_matches": 2
+    },
+    "I'm hosting a trivia night with a cat theme and I need some cat facts for the event. Can you give me a random cat fact? Additionally, it would be helpful if you could provide me with a list of all the cat facts in your database.": {
+        "original_docs": [
+            "cat-facts Get a random fact about cats",
+            "cat-facts Get all facts about cat"
+        ],
+        "top_docs": {
+            "(10152, ('Random Cat Fact', 'Cat Facts'))": {
+                "score": 0.7887907028198242
+            },
+            "(8456, ('cat-facts', 'Get a random fact about cats'))": {
+                "score": 0.7678437232971191
+            },
+            "(8455, ('cat-facts', 'Get all facts about cat'))": {
+                "score": 0.7564140558242798
+            },
+            "(10144, ('Daily Cat Facts', 'Get some random facts'))": {
+                "score": 0.6989780068397522
+            },
+            "(8947, ('Cat Facts', 'Facts'))": {
+                "score": 0.6623085737228394
+            }
+        },
+        "successful_matches": 2
+    },
+    "I'm organizing a trivia night and I need some interesting facts about current affairs. Can you fetch the recent current affairs and provide me with 10 quiz questions based on them? Also, fetch today's international current affairs and the historical events that occurred today to help me prepare more questions.": {
+        "original_docs": [
+            "Current Affairs Of India Recent Current Affairs",
+            "Current Affairs Of India Today's International Current Affairs",
+            "Current Affairs Of India Quiz For Today",
+            "Current Affairs Of India History Of Today"
+        ],
+        "top_docs": {
+            "(2708, ('Current Affairs Of India', 'Quiz For Today'))": {
+                "score": 0.6574041843414307
+            },
+            "(2706, ('Current Affairs Of India', \"Today's International Current Affairs\"))": {
+                "score": 0.6570913195610046
+            },
+            "(2707, ('Current Affairs Of India', 'History Of Today'))": {
+                "score": 0.6057419180870056
+            },
+            "(2705, ('Current Affairs Of India', 'Recent Current Affairs'))": {
+                "score": 0.5462360382080078
+            },
+            "(9793, ('Today in History', 'Get Event'))": {
+                "score": 0.4865427017211914
+            }
+        },
+        "successful_matches": 4
+    },
+    "I'm working on a research project about different car models. Can you provide me with the decoded information for the VIN 'WBAWY32040L678750', 'WVWZZZAUZGW001953', and 'WBAPE12060WJ88925'? I need details about the body type, fuel, make, model, year, engine, power, wheels, steering, and transmission for each VIN.": {
+        "original_docs": [
+            "vin-decoder_v4 Vin Decode",
+            "vin-decoder_v4 AU Decode",
+            "vin-decoder_v4 ZA Decode",
+            "vin-decoder_v4 NZ Decode",
+            "vin-decoder_v4 US Decode",
+            "vin-decoder_v4 PL Decode"
+        ],
+        "top_docs": {
+            "(8526, ('vin-decoder_v4', 'ZA Decode'))": {
+                "score": 0.6689578294754028
+            },
+            "(8523, ('vin-decoder_v4', 'US Decode'))": {
+                "score": 0.6505794525146484
+            },
+            "(8521, ('vin-decoder_v4', 'Vin Decode'))": {
+                "score": 0.6435038447380066
+            },
+            "(8524, ('vin-decoder_v4', 'PL Decode'))": {
+                "score": 0.6428058743476868
+            },
+            "(9998, ('VIN Recognition/Decoder', 'Get Info From VIN'))": {
+                "score": 0.6365498304367065
+            }
+        },
+        "successful_matches": 4
+    },
+    "I'm a researcher studying currency fluctuations. Can you fetch the exchange rates for EUR, PLN, and USD from the European Central Bank? Also, retrieve the rates for EUR, PLN, USD, and SEK from all the banks. Please include the full names of the currencies and the dates of the rates.": {
+        "original_docs": [
+            "Exchange rates live Get individual bank",
+            "Exchange rates live Get All Currency Rates"
+        ],
+        "top_docs": {
+            "(6239, ('Exchange rates live', 'Get individual bank'))": {
+                "score": 0.6508477330207825
+            },
+            "(6236, ('Forecast crypto and fiat currency exchange rates', 'Currency rates for 1 bank. Historical data.'))": {
+                "score": 0.6140639781951904
+            },
+            "(2017, ('Hryvna Today', '/v1/rates/banks'))": {
+                "score": 0.5959416627883911
+            },
+            "(6235, ('Forecast crypto and fiat currency exchange rates', 'Get banks in a country'))": {
+                "score": 0.555193305015564
+            },
+            "(6237, ('Forecast crypto and fiat currency exchange rates', 'API Info'))": {
+                "score": 0.5317847728729248
+            }
+        },
+        "successful_matches": 1
+    },
+    "I need a playground link for the contract 'NWayUtilityCoin' on the Flow blockchain. Please provide me with the contract address and name using the 'Getcodeplaygroundlink' API. Additionally, fetch the contract code and type for this contract using the 'getcodecontent' API.": {
+        "original_docs": [
+            "flow study getrelevantcode",
+            "flow study getcodecontent",
+            "flow study getcodestructure",
+            "flow study Getcode-relatedproperties",
+            "flow study Getcoderelatedtransactioncode",
+            "flow study getcode-relatedcontracts",
+            "flow study Getcodeplaygroundlink",
+            "flow study codesearch"
+        ],
+        "top_docs": {
+            "(4505, ('flow study', 'getcodecontent'))": {
+                "score": 0.5291301012039185
+            },
+            "(4503, ('flow study', 'codesearch'))": {
+                "score": 0.42834141850471497
+            },
+            "(4504, ('flow study', 'Getcodeplaygroundlink'))": {
+                "score": 0.4273528456687927
+            },
+            "(4500, ('flow study', 'getcode-relatedcontracts'))": {
+                "score": 0.3985386788845062
+            },
+            "(9771, ('Flowcode', 'Create QR Code'))": {
+                "score": 0.3941907286643982
+            }
+        },
+        "successful_matches": 4
+    },
+    "I recently moved to California and would like to explore the golfing options in my new neighborhood. Fetch the golf courses within a 10-mile radius of my home's latitude 36.56910381018662 and longitude -121.95035631683683. Additionally, provide the course details for each of these courses.": {
+        "original_docs": [
+            "Golf Course Finder Get Courses",
+            "Golf Course Finder Course Details"
+        ],
+        "top_docs": {
+            "(5931, ('Golf Course Finder', 'Course Details'))": {
+                "score": 0.708827018737793
+            },
+            "(5930, ('Golf Course Finder', 'Get Courses'))": {
+                "score": 0.6486882567405701
+            },
+            "(1459, ('Live Golf Data', 'organizations'))": {
+                "score": 0.5972246527671814
+            },
+            "(1458, ('Live Golf Data', 'schedules'))": {
+                "score": 0.587538480758667
+            },
+            "(1455, ('Live Golf Data', 'points'))": {
+                "score": 0.5648993849754333
+            }
+        },
+        "successful_matches": 2
+    },
+    "I am organizing a business conference in Vietnam. Can you provide me with the names of all cities in Vietnam? Additionally, I would like to know the names of all districts in each city.": {
+        "original_docs": [
+            "Viet Nam administrative divisions Get All Cities in Vietnam",
+            "Viet Nam administrative divisions Get All Districts Of A City In Vietnam",
+            "Viet Nam administrative divisions Get All Wards Of A District In Vietnam"
+        ],
+        "top_docs": {
+            "(3787, ('Viet Nam administrative divisions', 'Get All Districts Of A City In Vietnam'))": {
+                "score": 0.7977294921875
+            },
+            "(3786, ('Viet Nam administrative divisions', 'Get All Wards Of A District In Vietnam'))": {
+                "score": 0.7709599733352661
+            },
+            "(3788, ('Viet Nam administrative divisions', 'Get All Cities in Vietnam'))": {
+                "score": 0.7231998443603516
+            },
+            "(356, ('Provinces of Thailand', 'district'))": {
+                "score": 0.5172052383422852
+            },
+            "(10236, ('Nguy\u1ec5n H\u1eefu Kh\u01b0\u01a1ng', 'test'))": {
+                "score": 0.48681533336639404
+            }
+        },
+        "successful_matches": 3
+    },
+    "I am a nutritionist and I need some recipe recommendations for my clients. Can you provide me with a collection of breakfast recipes? Additionally, I would like to explore the recipes by the author 'samuelgoldsmith'.": {
+        "original_docs": [
+            "BBC Good Food API Search for recipes",
+            "BBC Good Food API Author profile + recipes",
+            "BBC Good Food API Collection recipes",
+            "BBC Good Food API Recipe by name id",
+            "BBC Good Food API Categories collections ids"
+        ],
+        "top_docs": {
+            "(7325, ('Recipe Finder', 'breakfast/ingredient'))": {
+                "score": 0.5817265510559082
+            },
+            "(4903, ('BBC Good Food API', 'Author profile + recipes'))": {
+                "score": 0.5610008835792542
+            },
+            "(4902, ('BBC Good Food API', 'Collection recipes'))": {
+                "score": 0.5552449226379395
+            },
+            "(4900, ('BBC Good Food API', 'Recipe by name id'))": {
+                "score": 0.5255504846572876
+            },
+            "(10176, ('Recipe_v3', 'foodrecipe'))": {
+                "score": 0.4981948137283325
+            }
+        },
+        "successful_matches": 3
+    },
+    "I'm searching for shoes on Kaufland.de. Retrieve the keyword search results and sort them by relevance. Exclude any sponsored listings. Additionally, provide me with the product details for the first result.": {
+        "original_docs": [
+            "Axesso - Kaufland Data Service Product details",
+            "Axesso - Kaufland Data Service Keyword search"
+        ],
+        "top_docs": {
+            "(1129, ('Axesso - Kaufland Data Service', 'Product details'))": {
+                "score": 0.6505600810050964
+            },
+            "(1128, ('Axesso - Kaufland Data Service', 'Keyword search'))": {
+                "score": 0.5968696475028992
+            },
+            "(7348, ('Shoes collections', 'Get a specific item'))": {
+                "score": 0.41038113832473755
+            },
+            "(7349, ('Shoes collections', 'Get all the shoes'))": {
+                "score": 0.4076884090900421
+            },
+            "(8653, ('Weee grocery API (sayweee.com) - browsing/searching/details', 'product search (zipcode, keyword)'))": {
+                "score": 0.39159324765205383
+            }
+        },
+        "successful_matches": 2
+    },
+    "Hi! I'm researching the impact of Bitcoin on the global financial landscape. Can you collect all the recent news about Bitcoin from major news sites worldwide? I'm interested in the news titles, URLs, and sources. Also, I would like specific news from CoinDesk. Thank you!": {
+        "original_docs": [
+            "Bitcoin News Get All Bitcoin News",
+            "Bitcoin News Get Individual Bitcoin News Sources"
+        ],
+        "top_docs": {
+            "(2798, ('Cryptocurrency News', 'CoinDesk'))": {
+                "score": 0.6919642090797424
+            },
+            "(982, ('crypto-news_v2', 'CoinDesk'))": {
+                "score": 0.6289244294166565
+            },
+            "(8560, ('Bitcoin News', 'Get Individual Bitcoin News Sources'))": {
+                "score": 0.6229762434959412
+            },
+            "(977, ('crypto-news_v2', 'CoinCu'))": {
+                "score": 0.5682030916213989
+            },
+            "(2799, ('Cryptocurrency News', 'Bitcoinist'))": {
+                "score": 0.556394100189209
+            }
+        },
+        "successful_matches": 1
+    },
+    "As a sports event organizer, I need to gather information about the sports, rounds, and statuses associated with global tournaments. Can you provide me with a comprehensive report that includes the sports list, round list, and status list? It would be helpful to have the short names of the sports and rounds.": {
+        "original_docs": [
+            "Global Data Country List",
+            "Global Data Round List",
+            "Global Data Sports List",
+            "Global Data Status List"
+        ],
+        "top_docs": {
+            "(1435, ('Global Data', 'Sports List'))": {
+                "score": 0.6828862428665161
+            },
+            "(1434, ('Global Data', 'Round List'))": {
+                "score": 0.6123993396759033
+            },
+            "(1436, ('Global Data', 'Status List'))": {
+                "score": 0.49987441301345825
+            },
+            "(1367, ('Football xG Statistics', 'Tournaments List By CountryId'))": {
+                "score": 0.46888166666030884
+            },
+            "(1433, ('Global Data', 'Country List'))": {
+                "score": 0.44961172342300415
+            }
+        },
+        "successful_matches": 4
+    },
+    "My company is conducting research on the stock market. Can you fetch the closing prices, volume, and market capitalization for AAPL and INTC stocks? Additionally, it would be great to know the YTD change and the PE ratio for both stocks.": {
+        "original_docs": [
+            "Stock and Options Trading Data Provider Options",
+            "Stock and Options Trading Data Provider Straddle"
+        ],
+        "top_docs": {
+            "(2046, ('YH Finance_v2', 'stock/get_stock_quote_type_data'))": {
+                "score": 0.44251179695129395
+            },
+            "(1921, ('Stock and Options Trading Data Provider', 'Options'))": {
+                "score": 0.41394197940826416
+            },
+            "(2040, ('YH Finance_v2', 'stock/get_daily_dividend_data'))": {
+                "score": 0.3982805013656616
+            },
+            "(1962, ('Quotient', '/equity/daily'))": {
+                "score": 0.39455437660217285
+            },
+            "(1967, ('Quotient', '/equity/earnings'))": {
+                "score": 0.3930462598800659
+            }
+        },
+        "successful_matches": 1
+    },
+    "I'm planning a family vacation from Birmingham, Alabama to Sacramento, California. Can you help me calculate the distance between these two cities in kilometers? Additionally, I would like to know the distance in miles using the Get Distance API. It would be great if you could provide the latitude and longitude as well.": {
+        "original_docs": [
+            "Great Circle Math Api Get Distance in Km",
+            "Great Circle Math Api Get Distance",
+            "Great Circle Math Api Get Distance By City, State, Country",
+            "Great Circle Math Api Get Distance By City, State, Country In Km"
+        ],
+        "top_docs": {
+            "(2420, ('Great Circle Math Api', 'Get Distance By City, State, Country In Km'))": {
+                "score": 0.600850522518158
+            },
+            "(8511, ('Location and Time', 'Calculate Distance Between Cities'))": {
+                "score": 0.5293005108833313
+            },
+            "(9869, ('Distance Calculation API by Pizza API', 'Calculate distance  By Lat & Long'))": {
+                "score": 0.5030078887939453
+            },
+            "(2421, ('Great Circle Math Api', 'Get Distance By City, State, Country'))": {
+                "score": 0.49324262142181396
+            },
+            "(2423, ('Great Circle Math Api', 'Get Distance in Km'))": {
+                "score": 0.48858171701431274
+            }
+        },
+        "successful_matches": 3
+    },
+    "I'm planning a family trip to the beach and I need driving directions from our home to the nearest beach. Could you provide me with the most convenient route? Please also check for any alerts or traffic jams. Thanks!": {
+        "original_docs": [
+            "Waze Driving Directions",
+            "Waze Alerts and Jams",
+            "Waze Autocomplete"
+        ],
+        "top_docs": {
+            "(4290, ('Waze', 'Driving Directions'))": {
+                "score": 0.6260808706283569
+            },
+            "(10023, ('Vehicle RC Information_v2', 'Vehicle Information'))": {
+                "score": 0.4775514006614685
+            },
+            "(4291, ('Waze', 'Alerts and Jams'))": {
+                "score": 0.46484917402267456
+            },
+            "(5401, ('Flowplayer Drive', 'traffic'))": {
+                "score": 0.43260326981544495
+            },
+            "(9376, ('Driving License Verification', 'GET Call'))": {
+                "score": 0.3991599977016449
+            }
+        },
+        "successful_matches": 2
+    },
+    "I'm planning a family vacation to Brazil and I want to know the local timezone in Rio de Janeiro. Please provide me with the timezone name, timezone id, and the current local time in Rio de Janeiro.": {
+        "original_docs": [
+            "Reverse Geocoding and Geolocation Service GetLargestCities",
+            "Reverse Geocoding and Geolocation Service GetNearestCities",
+            "Reverse Geocoding and Geolocation Service GetTimezone"
+        ],
+        "top_docs": {
+            "(9872, ('TimeZoneDB - Find Local Time Zone by Coordinate or Name', 'Main'))": {
+                "score": 0.6183910369873047
+            },
+            "(5612, ('GeoDB Cities', 'Time-Zone Time'))": {
+                "score": 0.49353545904159546
+            },
+            "(8517, ('Location and Time', 'Get Supported Timezones'))": {
+                "score": 0.4860179126262665
+            },
+            "(9870, ('Timezone by Location', 'Timezone'))": {
+                "score": 0.4569128453731537
+            },
+            "(5613, ('GeoDB Cities', 'Time-Zone Date-Time'))": {
+                "score": 0.45256125926971436
+            }
+        },
+        "successful_matches": 0
+    },
+    "I'm an adventure enthusiast and I'm planning a hiking trip in Tanzania. Can you recommend a mountain or hiking trail in Tanzania? Additionally, provide me with the distance and directions from Arusha to this mountain or trail.": {
+        "original_docs": [
+            "Tanzania API Directions Between 2 Locations",
+            "Tanzania API Geocode",
+            "Tanzania API Facilities Lookup",
+            "Tanzania API Measure Distance",
+            "Tanzania API Reverse Geocode"
+        ],
+        "top_docs": {
+            "(6849, ('Tanzania API', 'Directions Between 2 Locations'))": {
+                "score": 0.6436040997505188
+            },
+            "(6851, ('Tanzania API', 'Reverse Geocode'))": {
+                "score": 0.5668758749961853
+            },
+            "(6847, ('Tanzania API', 'Measure Distance'))": {
+                "score": 0.5495784878730774
+            },
+            "(6848, ('Tanzania API', 'Geocode'))": {
+                "score": 0.529191792011261
+            },
+            "(3756, ('Uganda API', 'Directions Between 2 Locations'))": {
+                "score": 0.516742467880249
+            }
+        },
+        "successful_matches": 4
+    },
+    "I'm planning a surprise anniversary party for my parents and I want to include some heartfelt quotes in the decorations. Can you find quotes that have a maximum character count of 80? It would be great if the quotes are from famous poets like William Shakespeare, Robert Frost, and Emily Dickinson.": {
+        "original_docs": [
+            " Quotes API get_quotes_by_max_char_count",
+            " Quotes API get_random_quote",
+            " Quotes API get_quotes_by_keyword",
+            " Quotes API get_quotes_by_source"
+        ],
+        "top_docs": {
+            "(8007, (' Quotes API', 'get_quotes_by_max_char_count'))": {
+                "score": 0.5888850688934326
+            },
+            "(8009, (' Quotes API', 'get_quotes_by_source'))": {
+                "score": 0.531105101108551
+            },
+            "(7164, ('quotsy', 'get_quotes'))": {
+                "score": 0.5223973989486694
+            },
+            "(703, ('Quotes_v2', 'Quotes By Authors'))": {
+                "score": 0.5158273577690125
+            },
+            "(7160, ('quotsy', 'get qoutes by authors'))": {
+                "score": 0.5017061829566956
+            }
+        },
+        "successful_matches": 2
+    },
+    "My cousin is a recent graduate in Finance and is looking for a job in the banking sector. Can you help her create a professional resume that showcases her skills in financial analysis, risk management, and investment strategies? Additionally, she would like to generate a cover letter that demonstrates her strong analytical abilities and passion for the finance industry.": {
+        "original_docs": [
+            "AI Resume Generator Generate Document: Resume",
+            "AI Resume Generator Generate Document: Cover Letter"
+        ],
+        "top_docs": {
+            "(4939, ('AI Resume Generator', 'Generate Document: Cover Letter'))": {
+                "score": 0.7098338603973389
+            },
+            "(4940, ('AI Resume Generator', 'Generate Document: Resume'))": {
+                "score": 0.6176062226295471
+            },
+            "(10382, ('Screening and Matching Resumes', '/sourcingResume'))": {
+                "score": 0.44474905729293823
+            },
+            "(5308, ('Review Generator (AI)', 'Locales'))": {
+                "score": 0.3698672354221344
+            },
+            "(10360, ('Job Title Categorization', 'Categorize Job Title'))": {
+                "score": 0.35749346017837524
+            }
+        },
+        "successful_matches": 2
+    },
+    "I'm a journalist working on an article about population growth in developing countries. Can you provide me with the population count of Egypt, India, and Brazil? Additionally, can you give me the current world population?": {
+        "original_docs": [
+            "Get Population Get Country Population",
+            "Get Population Get Population"
+        ],
+        "top_docs": {
+            "(368, ('World Population', 'getCountriesByContinent'))": {
+                "score": 0.6700668931007385
+            },
+            "(369, ('World Population', 'getPopulationByCountryCode'))": {
+                "score": 0.6565872430801392
+            },
+            "(6480, ('Countries Population', 'Total Population'))": {
+                "score": 0.643297016620636
+            },
+            "(8810, ('Get Population', 'Get Country Population'))": {
+                "score": 0.6148303747177124
+            },
+            "(6479, ('Countries Population', 'Country Details Level 1'))": {
+                "score": 0.5653879046440125
+            }
+        },
+        "successful_matches": 1
+    },
+    "I'm a blogger and I want to stay updated on the latest stories on Medium. Can you provide me with the top 10 stories, including the title, author, clap count, and reading time? It would be helpful to have the URLs and topics of each story as well.": {
+        "original_docs": [
+            "Medium /stories/{topic}",
+            "Medium /search/stories",
+            "Medium /search/topics"
+        ],
+        "top_docs": {
+            "(3328, ('Medium', '/stories/{topic}'))": {
+                "score": 0.7792356014251709
+            },
+            "(3329, ('Medium', '/search/stories'))": {
+                "score": 0.7347483038902283
+            },
+            "(3327, ('Medium', '/search/topics'))": {
+                "score": 0.615772545337677
+            },
+            "(8049, ('IG Private API', 'Stories'))": {
+                "score": 0.4442598819732666
+            },
+            "(4104, ('Instagram API', 'Story by URL'))": {
+                "score": 0.4382801949977875
+            }
+        },
+        "successful_matches": 3
+    },
+    "As a fan of the Premier League, I want to stay updated on the upcoming fixtures. Can you provide me with a list of fixtures, along with the competition details and club information? It would be great if the list includes the match dates, times, and locations as well as the clubs' short names and abbreviations.": {
+        "original_docs": [
+            "Premier League Upcoming Matches /clubs",
+            "Premier League Upcoming Matches /fixtures",
+            "Premier League Upcoming Matches /competitions"
+        ],
+        "top_docs": {
+            "(1246, ('Premier League Upcoming Matches', '/competitions'))": {
+                "score": 0.6771453619003296
+            },
+            "(1245, ('Premier League Upcoming Matches', '/fixtures'))": {
+                "score": 0.6136472821235657
+            },
+            "(1247, ('Premier League Upcoming Matches', '/clubs'))": {
+                "score": 0.5883675813674927
+            },
+            "(1351, ('AllScores', 'Featured Competitions'))": {
+                "score": 0.544786810874939
+            },
+            "(1350, ('AllScores', 'Fixtures'))": {
+                "score": 0.4918082058429718
+            }
+        },
+        "successful_matches": 3
+    },
+    "I want to explore news articles in various categories from different regions. Fetch news articles related to entertainment, general news, and sports from the United States, China, and Japan.": {
+        "original_docs": [
+            "AI News - Global Available Regions",
+            "AI News - Global Get News"
+        ],
+        "top_docs": {
+            "(6720, ('East China News', 'Japan filter for news'))": {
+                "score": 0.6198660731315613
+            },
+            "(6713, ('East China News', 'Filter Japan news by newspaper company'))": {
+                "score": 0.582020103931427
+            },
+            "(6721, ('East China News', 'China filter for all news'))": {
+                "score": 0.5803462266921997
+            },
+            "(7943, ('Google News', 'Supported languages and regions'))": {
+                "score": 0.5796927213668823
+            },
+            "(6715, ('East China News', 'Filter China news by newspaper company'))": {
+                "score": 0.5531163811683655
+            }
+        },
+        "successful_matches": 0
+    },
+    "I'm a software developer working on a cryptocurrency project. Can you help me find news articles about cryptocurrencies from CoinGecko and CryptoSlate? I need to stay updated on the latest industry news and technological advancements.": {
+        "original_docs": [
+            "Crypto News_v2 Get All Crypto News",
+            "Crypto News_v2 Specific Article Keyword Search",
+            "Crypto News_v2 Get Individual News Source",
+            "Crypto News_v2 General search"
+        ],
+        "top_docs": {
+            "(3306, ('Crypto News_v11', 'Get all Crypto news'))": {
+                "score": 0.6954027414321899
+            },
+            "(3345, ('Crypto News_v2', 'Get All Crypto News'))": {
+                "score": 0.6826087236404419
+            },
+            "(983, ('crypto-news_v2', 'All News'))": {
+                "score": 0.6379067897796631
+            },
+            "(3259, ('Crypto News Live_v2', 'Get All Crypto News'))": {
+                "score": 0.6346030831336975
+            },
+            "(3342, ('Crypto News_v2', 'Get Individual News Source'))": {
+                "score": 0.6206448078155518
+            }
+        },
+        "successful_matches": 2
+    },
+    "I'm interested in the popular hashtags on Twitter. Could you fetch the trending hashtags worldwide and in Argentina? Please provide me with the titles, volumes, and links for these hashtags.": {
+        "original_docs": [
+            "Twitter Hashtags Get country's hashtags",
+            "Twitter Hashtags Get worldwide hashtags"
+        ],
+        "top_docs": {
+            "(6981, ('Twitter Hashtags', \"Get country's hashtags\"))": {
+                "score": 0.7312912940979004
+            },
+            "(6982, ('Twitter Hashtags', 'Get worldwide hashtags'))": {
+                "score": 0.6765082478523254
+            },
+            "(3935, ('Twitter', 'Tweets by hashtag'))": {
+                "score": 0.5940715074539185
+            },
+            "(367, ('Twitter', 'Hashtag'))": {
+                "score": 0.5937732458114624
+            },
+            "(6925, ('Hashtag', 'Trending tags from Country'))": {
+                "score": 0.5905905961990356
+            }
+        },
+        "successful_matches": 2
+    },
+    "I'm a language teacher and I'm looking for news articles in different languages to use in my classes. Can you fetch the list of the current latest news articles in English? It would be great if the response includes information like the title, text, top image, and publish date of each article.": {
+        "original_docs": [
+            "Malaysia Kini Get Latest Article List",
+            "Malaysia Kini Get Article by SID"
+        ],
+        "top_docs": {
+            "(3312, ('Kenyan News Api', 'Get all the news in english'))": {
+                "score": 0.5729120373725891
+            },
+            "(48, ('Currents News', 'Latest news'))": {
+                "score": 0.540019690990448
+            },
+            "(49, ('Currents News', 'Search'))": {
+                "score": 0.5103962421417236
+            },
+            "(7943, ('Google News', 'Supported languages and regions'))": {
+                "score": 0.4592202603816986
+            },
+            "(266, ('Real-Time News Data', 'Language List'))": {
+                "score": 0.4557568430900574
+            }
+        },
+        "successful_matches": 0
+    },
+    "I am interested in finding part-time internships in the finance industry. Can you search for part-time internships in finance and provide the job details, including the job titles, employers, and required skills? Also, please include the estimated salaries for these internships.": {
+        "original_docs": [
+            "JSearch Job Details",
+            "JSearch Estimated Salary",
+            "JSearch Search",
+            "JSearch Search Filters"
+        ],
+        "top_docs": {
+            "(5513, ('JSearch', 'Estimated Salary'))": {
+                "score": 0.540817379951477
+            },
+            "(9957, ('Job Search', 'Search Jobs'))": {
+                "score": 0.45773422718048096
+            },
+            "(4941, ('JobSearch', '/api/v1/Jobs/Search'))": {
+                "score": 0.4478820562362671
+            },
+            "(502, ('Adzuna', 'Salary estimate'))": {
+                "score": 0.44204777479171753
+            },
+            "(9703, ('JobsApi', 'Jobs'))": {
+                "score": 0.434839129447937
+            }
+        },
+        "successful_matches": 1
+    },
+    "I'm writing an article about search trends on Google. Can you help me by fetching the list of supported regions? Additionally, I need the list of trending keywords for a specific date in South Africa. Can you provide me with this data?": {
+        "original_docs": [
+            "Google Trends trendings",
+            "Google Trends regions"
+        ],
+        "top_docs": {
+            "(4196, ('Trends keywords in different regions', 'Get Trend keyword'))": {
+                "score": 0.5926938056945801
+            },
+            "(4204, ('Google Trends', 'regions'))": {
+                "score": 0.5730441808700562
+            },
+            "(4197, ('Trends keywords in different regions', 'get geo map for regions'))": {
+                "score": 0.5600255727767944
+            },
+            "(9965, ('Google Search_v2', 'search'))": {
+                "score": 0.48851627111434937
+            },
+            "(7943, ('Google News', 'Supported languages and regions'))": {
+                "score": 0.4822928309440613
+            }
+        },
+        "successful_matches": 1
+    },
+    "I'm organizing a family gathering and I need to find a restaurant that can accommodate a large group. Can you suggest some restaurants in Los Angeles that have private dining options? It would be great to have their contact information and customer ratings.": {
+        "original_docs": [
+            "Yelp Reviews Business Search",
+            "Yelp Reviews Business Reviews"
+        ],
+        "top_docs": {
+            "(4876, ('The Fork The Spoon', 'restaurants/v2/get-info'))": {
+                "score": 0.6262427568435669
+            },
+            "(4872, ('The Fork The Spoon', 'restaurants/v2/list'))": {
+                "score": 0.625138521194458
+            },
+            "(4877, ('The Fork The Spoon', 'restaurants/list (Deprecated)'))": {
+                "score": 0.5656014084815979
+            },
+            "(2532, ('Restaurants near me USA', 'GET all Restaurant locations'))": {
+                "score": 0.5525937676429749
+            },
+            "(2533, ('Restaurants near me USA', 'GET all Restaurant locations by {zipcode]'))": {
+                "score": 0.546837568283081
+            }
+        },
+        "successful_matches": 0
+    },
+    "Which football leagues' predictions are available for today? I want to explore the predictions for the Premier League and La Liga.": {
+        "original_docs": [
+            "PredictX Get Today's Predictions",
+            "PredictX Get Next Predictions"
+        ],
+        "top_docs": {
+            "(1605, ('Today Football Prediction', 'Daily Predictions'))": {
+                "score": 0.6398802995681763
+            },
+            "(1237, ('Betigolo Predictions', 'Football predictions by day'))": {
+                "score": 0.5964874625205994
+            },
+            "(1607, ('Today Football Prediction', 'Prediction Details'))": {
+                "score": 0.5936077833175659
+            },
+            "(1604, ('Today Football Prediction', 'VIP Prediction Scores'))": {
+                "score": 0.5817705392837524
+            },
+            "(1257, ('Football Prediction', 'Predictions'))": {
+                "score": 0.5695683360099792
+            }
+        },
+        "successful_matches": 0
+    },
+    "My friends and I are starting a new business and we require the services of a professional logo designer. Can you help us find vetted sellers in the 'Graphics & Design: Logo Design' category? We would like a list of sellers and their services, including their names and website URLs. Additionally, we're interested in knowing the available categories we can search for.": {
+        "original_docs": [
+            "Fiverr Pro services Categories",
+            "Fiverr Pro services Services"
+        ],
+        "top_docs": {
+            "(4198, ('Fiverr Pro services', 'Categories'))": {
+                "score": 0.5349271297454834
+            },
+            "(5465, ('Rainforest', 'Seller Products'))": {
+                "score": 0.4410390853881836
+            },
+            "(2891, ('Famous  Quotes', 'List Categories'))": {
+                "score": 0.4054803252220154
+            },
+            "(82, ('VALUE SERP', 'Google Product Online Sellers'))": {
+                "score": 0.40307292342185974
+            },
+            "(4199, ('Fiverr Pro services', 'Services'))": {
+                "score": 0.385484516620636
+            }
+        },
+        "successful_matches": 2
+    },
+    "I'm a bartender and I'm looking for new cocktail recipes to add to my menu. Can you recommend a list of cocktail recipes along with their images? I would also like to get the detailed recipe for a cocktail with the ID 'xyz789'. Please include the ingredients, preparation method, and an image of the cocktail.": {
+        "original_docs": [
+            "The Cocktail DB List of Cocktails",
+            "The Cocktail DB Detailed Cocktail Recipe by ID"
+        ],
+        "top_docs": {
+            "(4881, ('The Cocktail DB', 'Detailed Cocktail Recipe by ID'))": {
+                "score": 0.7844040393829346
+            },
+            "(4880, ('The Cocktail DB', 'List of Cocktails'))": {
+                "score": 0.6627525687217712
+            },
+            "(7297, ('Cocktails', 'Search by name'))": {
+                "score": 0.6058056950569153
+            },
+            "(7296, ('Cocktails', 'Search by ingredient'))": {
+                "score": 0.5726696252822876
+            },
+            "(7294, ('Cocktails', 'Random'))": {
+                "score": 0.543691098690033
+            }
+        },
+        "successful_matches": 2
+    },
+    "I am looking for a new place to live and want to explore different neighborhoods in my city. Can you provide me with a web search of the best neighborhoods in my area? Additionally, it would be great if you could show me images and descriptions of these neighborhoods.": {
+        "original_docs": [
+            "Google Search_v3 Web Search",
+            "Google Search_v3 Image Search"
+        ],
+        "top_docs": {
+            "(50, ('Web Search', 'imageSearch'))": {
+                "score": 0.6998194456100464
+            },
+            "(9963, ('Google Web Search', 'Search'))": {
+                "score": 0.6903169751167297
+            },
+            "(4214, ('Bing Search APIs', 'Images Search'))": {
+                "score": 0.6812759637832642
+            },
+            "(7057, ('Google Search JSON', '/search/image'))": {
+                "score": 0.6735228896141052
+            },
+            "(74, ('Google Search Results Scraper', 'Image Search'))": {
+                "score": 0.6734473705291748
+            }
+        },
+        "successful_matches": 0
+    }
+}

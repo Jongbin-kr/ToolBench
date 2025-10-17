@@ -9,8 +9,9 @@ import os
 
 # 创建参数解析器并添加参数
 parser = argparse.ArgumentParser()
-parser.add_argument('model_path', type=str, required=True, help='Your trained model path')
-parser.add_argument('dataset_path', help='The processed dataset files path')
+parser.add_argument('--model_path', type=str, required=True, help='Your trained model path')
+parser.add_argument('--dataset_path', required=True, help='The processed dataset files path')
+parser.add_argument('--experiment_name', type=str, default='inference_experiment', help='The name of the experiment')
 
 # 解析命令行参数
 args = parser.parse_args()
@@ -64,5 +65,5 @@ for query_index, (query_id, query) in enumerate(ir_test_queries.items()):
     }
 
 # Save the results to a json file
-with open('top5_results_with_matches.json', 'w') as f:
+with open(f'./experiments/{args.experiment_name}.json', 'w') as f:
     json.dump(top_results, f, indent=4)

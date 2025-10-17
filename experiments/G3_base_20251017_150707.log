@@ -1,0 +1,23 @@
++ echo 'Running retriever inference evaluation...'
+Running retriever inference evaluation...
++ echo 'Model: bert-base-uncased'
+Model: bert-base-uncased
++ echo 'Dataset: data/retrieval/G3'
+Dataset: data/retrieval/G3
++ echo ''
+
++ python toolbench/retrieval/inference_example.py --model_path bert-base-uncased --dataset_path data/retrieval/G3 --experiment_name G3_base
+No sentence-transformers model found with name /home/jongbinwon/.cache/torch/sentence_transformers/bert-base-uncased. Creating a new one with MEAN pooling.
+/data3/jongbinwon/.conda/envs/TBNCH/lib/python3.10/site-packages/deepspeed/runtime/zero/linear.py:49: FutureWarning: `torch.cuda.amp.custom_fwd(args...)` is deprecated. Please use `torch.amp.custom_fwd(args..., device_type='cuda')` instead.
+  def forward(ctx, input, weight, bias=None):
+/data3/jongbinwon/.conda/envs/TBNCH/lib/python3.10/site-packages/deepspeed/runtime/zero/linear.py:67: FutureWarning: `torch.cuda.amp.custom_bwd(args...)` is deprecated. Please use `torch.amp.custom_bwd(args..., device_type='cuda')` instead.
+  def backward(ctx, grad_output):
+/data3/jongbinwon/.conda/envs/TBNCH/lib/python3.10/site-packages/accelerate/utils/torch_xla.py:18: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  import pkg_resources
+Some weights of the model checkpoint at /home/jongbinwon/.cache/torch/sentence_transformers/bert-base-uncased were not used when initializing BertModel: ['cls.seq_relationship.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.seq_relationship.weight', 'cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.dense.weight']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
++ echo ''
+
++ echo 'Results saved to G3_base.json'
+Results saved to G3_base.json

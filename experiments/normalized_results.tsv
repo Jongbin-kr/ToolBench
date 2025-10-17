@@ -1,0 +1,7 @@
+Dataset	Model	Avg_Match_Rate	Recall@5	Avg_Gold_Tools
+G1	base	0.0367	8.00%	4.51
+G1	ft	0.5820	80.00%	4.51
+G2	base	0.0191	4.19%	2.46
+G2	ft	0.5453	80.98%	2.46
+G3	base	0.0359	9.63%	2.95
+G3	ft	0.6954	94.50%	2.95

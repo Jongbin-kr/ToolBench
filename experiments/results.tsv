@@ -1,0 +1,7 @@
+Dataset	Model	Total_Queries	Recall@5	Avg_Matches	0_matches	1_match	2_matches	3_matches	4_matches	5_matches
+G1	base	100	8.00%	0.0900	92	7	1	0	0	0
+G1	ft	100	80.00%	2.2800	20	14	26	14	10	16
+G2	base	573	4.19%	0.0454	549	23	0	1	0	0
+G2	ft	573	80.98%	1.3019	109	226	201	30	7	0
+G3	base	218	9.63%	0.1147	197	18	2	1	0	0
+G3	ft	218	94.50%	1.9725	12	53	90	55	8	0
